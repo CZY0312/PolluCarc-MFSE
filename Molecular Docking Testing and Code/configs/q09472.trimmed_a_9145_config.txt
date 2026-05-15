@@ -1,0 +1,9 @@
+receptor = C:/DOCK3/result/prepared_receptors/Q09472.trimmed_A.pdbqt
+ligand = C:/DOCK3/result/prepared_ligands/9145.pdbqt
+center_x = 7.908865
+center_y = 3.091012
+center_z = 3.109828
+size_x = 195.431000
+size_y = 180.859000
+size_z = 197.677000
+exhaustiveness = 8
