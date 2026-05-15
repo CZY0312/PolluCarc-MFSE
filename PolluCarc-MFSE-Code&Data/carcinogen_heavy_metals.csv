@@ -1,0 +1,6 @@
+﻿Compound_CID,SMILES,Valid,Molecular_Formula,Molecular_Weight,LogP,HBD,HBA,Rotatable_Bonds,Aromatic_Rings,Total_Rings,Charge,Num_Atoms,Num_Heavy_Atoms,Alcohol(OH),Phenol,Aldehyde,Ketone,Carboxylic_acid,Carboxylate,Ester,Ether,Peroxide,Amine_primary,Amine_secondary,Amine_tertiary,Quaternary_N,Amide,Nitro,Nitrile,Azo,Azide,Thiol,Sulfide,Disulfide,Sulfoxide,Sulfone,Sulfonic_acid,Sulfonate,Fluoride,Chloride,Bromide,Iodide,Alkene,Alkyne,Aromatic_ring,Epoxide,Acetal,Carbamate,Urea,Total_FG_Count
+14064,CC(C)[Hg]C(C)C,True,C6H14Hg,288.08,2.726,0,0,6,0,0,0,21,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17115,CCC[Hg]Cl,True,C3H7ClHg,279.994,2.051,0,0,3,0,0,0,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3032639,CCP(CC)CC.[Cl-].[Au+],True,C6H15AuClP,350.027,-0.47,0,0,6,0,0,0,24,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16683076,[N-]=[N+]=N[Hg],True,HgN3,243.98,0.759,0,1,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16683082,COC1=CC=CC=C1N.C12C3C(=O)O[Sb-]4(O3)OC(C5C(=O)O[Sb-](O1)(O5)OC2=O)C(=O)O4,True,C15H13NO13Sb2-2,656.847,-2.083,1,14,3,1,6,-2,44,31,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3

@@ -1,0 +1,155 @@
+11094
+ OpenBabel02212621332D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    1.8024    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    2.8534    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    4.3534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.3534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.8534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1629    3.8187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    5.8534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1629    5.8880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    4.3534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    5.3534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0690    4.3326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0690    5.3742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1558    3.1988    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    6.4734    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1558    6.5080    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.0434    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.6634    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047    4.0205    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047    5.6863    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    2.5434    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9399    2.5434    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8024    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>
+11094
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>
+133
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByAAAEAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAADBUAAAHAAQAAAADAiBGAAwwMBAAACAAiRCQACCAAAgAgAIiAAAZIgIICKAkZGAIABgkAAIyAcQgIAOgAAAQAASAAAAAACAACQAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>
+naphthalen-1-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_CAS_NAME>
+1-naphthalenamine;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>
+naphthalen-1-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_NAME>
+naphthalen-1-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+naphthalen-1-amine;hydrochloride
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-naphthylamine;hydrochloride
+
+>  <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H9N.ClH/c11-10-7-3-5-8-4-1-2-6-9(8)10;/h1-7H,11H2;1H
+
+>  <PUBCHEM_IUPAC_INCHIKEY>
+FOKKJVHTXPJHEN-UHFFFAOYSA-N
+
+>  <PUBCHEM_EXACT_MASS>
+179.0501770
+
+>  <PUBCHEM_MOLECULAR_FORMULA>
+C10H10ClN
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>
+179.64
+
+>  <PUBCHEM_CACTVS_TPSA>
+26
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>
+179.0501770
+
+>  <PUBCHEM_TOTAL_CHARGE>
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>
+2
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+3  4  8
+3  5  8
+3  6  8
+4  7  8
+4  8  8
+5  9  8
+6  11  8
+7  10  8
+8  12  8
+9  10  8
+
+$$$$

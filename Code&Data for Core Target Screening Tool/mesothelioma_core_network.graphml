@@ -1,0 +1,5217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="score" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="TYMS" />
+    <node id="BRCA2" />
+    <node id="BRCA1" />
+    <node id="ATM" />
+    <node id="SNAI2" />
+    <node id="TGFB1" />
+    <node id="MMP9" />
+    <node id="EGF" />
+    <node id="YAP1" />
+    <node id="AKT1" />
+    <node id="KIT" />
+    <node id="CTNNB1" />
+    <node id="EZH2" />
+    <node id="MDM2" />
+    <node id="SNAI1" />
+    <node id="VIM" />
+    <node id="CDH2" />
+    <node id="TP53" />
+    <node id="CDH1" />
+    <node id="WT1" />
+    <node id="MUC1" />
+    <node id="GATA3" />
+    <node id="PAX8" />
+    <node id="CEACAM5" />
+    <node id="MAPK1" />
+    <node id="MCL1" />
+    <node id="FGF2" />
+    <node id="HMGB1" />
+    <node id="PIK3CA" />
+    <node id="CASP8" />
+    <node id="CDKN2A" />
+    <node id="BCL10" />
+    <node id="CASP3" />
+    <node id="BCL2" />
+    <node id="HIF1A" />
+    <node id="KRAS" />
+    <node id="STAT3" />
+    <node id="PECAM1" />
+    <node id="SPP1" />
+    <node id="FLT1" />
+    <node id="KDR" />
+    <node id="MET" />
+    <node id="PDGFB" />
+    <node id="CD44" />
+    <node id="CD274" />
+    <node id="CD34" />
+    <node id="ALK" />
+    <node id="CXCL12" />
+    <node id="PDGFRB" />
+    <node id="HGF" />
+    <node id="EGFR" />
+    <node id="IGF1" />
+    <node id="KRT5" />
+    <node id="ERBB2" />
+    <node id="MSLN" />
+    <node id="KRT7" />
+    <node id="PGF" />
+    <node id="FGFR1" />
+    <node id="FLT4" />
+    <node id="CCND1" />
+    <node id="BIRC5" />
+    <node id="MTOR" />
+    <node id="BCL2L1" />
+    <node id="PTEN" />
+    <node id="RASSF1" />
+    <node id="CDKN2B" />
+    <node id="CDK4" />
+    <node id="TNFRSF10B" />
+    <node id="LATS2" />
+    <node id="TP63" />
+    <node id="AREG" />
+    <node id="PIK3R3" />
+    <node id="PIK3R1" />
+    <node id="XIAP" />
+    <node id="NF2" />
+    <node id="IFNB1" />
+    <node id="SHC4" />
+    <node id="SHC2" />
+    <node id="PDGFA" />
+    <node id="PDGFD" />
+    <node id="PDGFC" />
+    <node id="TNFRSF8" />
+    <node id="GPC3" />
+    <node id="DHFR" />
+    <node id="SETD2" />
+    <node id="TXN" />
+    <node id="SLC2A1" />
+    <node id="BAX" />
+    <node id="PDCD1" />
+    <node id="FOLR1" />
+    <node id="EFEMP1" />
+    <node id="MUC16" />
+    <node id="SFRP4" />
+    <node id="FOS" />
+    <node id="EIF2AK3" />
+    <node id="DDIT3" />
+    <node id="FN1" />
+    <node id="CDKN1A" />
+    <node id="CXCL8" />
+    <node id="PTGS2" />
+    <node id="TSC1" />
+    <node id="SRC" />
+    <node id="IL6" />
+    <node id="BRAF" />
+    <node id="STMN1" />
+    <node id="STAT1" />
+    <node id="CREB1" />
+    <node id="SP1" />
+    <node id="EIF4EBP1" />
+    <node id="MYC" />
+    <node id="ESR1" />
+    <node id="MAPK3" />
+    <node id="MMP2" />
+    <node id="CCL2" />
+    <node id="IL1B" />
+    <node id="IGF2" />
+    <node id="CCN2" />
+    <node id="MMP14" />
+    <node id="SFRP1" />
+    <node id="DKK1" />
+    <node id="WIF1" />
+    <node id="TGFA" />
+    <node id="VEGFC" />
+    <node id="KITLG" />
+    <node id="CSF1R" />
+    <node id="FGF1" />
+    <node id="PDGFRA" />
+    <node id="SDC1" />
+    <node id="FGFR2" />
+    <node id="ERBB3" />
+    <node id="CSF3" />
+    <node id="STAT6" />
+    <node id="PARP1" />
+    <node id="FOXM1" />
+    <node id="E2F1" />
+    <node id="GLI1" />
+    <node id="VHL" />
+    <node id="CA9" />
+    <node id="PTK2" />
+    <node id="ANGPT1" />
+    <node id="BARD1" />
+    <node id="YY1" />
+    <node id="XRCC1" />
+    <node id="EPCAM" />
+    <node id="AXL" />
+    <node id="ABCB1" />
+    <node id="TERT" />
+    <node id="MUC4" />
+    <node id="EWSR1" />
+    <node id="BID" />
+    <node id="BAK1" />
+    <node id="ABCG2" />
+    <node id="SFRP2" />
+    <node id="CTNNA1" />
+    <node id="PLAUR" />
+    <node id="CTLA4" />
+    <node id="WWTR1" />
+    <node id="TLE1" />
+    <node id="DVL2" />
+    <node id="CSNK2A3" />
+    <node id="CSNK2A2" />
+    <node id="CSNK2A1" />
+    <node id="APC" />
+    <node id="DVL3" />
+    <node id="DVL1" />
+    <node id="HSP90AA1" />
+    <node id="NFKB1" />
+    <node id="FOXO1" />
+    <node id="CD86" />
+    <node id="HRAS" />
+    <node id="FOXP3" />
+    <node id="IL2" />
+    <node id="CXCL10" />
+    <node id="IFNA2" />
+    <node id="CD40" />
+    <node id="IL1A" />
+    <node id="NLRP3" />
+    <node id="MAPK8" />
+    <node id="TNF" />
+    <node id="RELA" />
+    <node id="JAK2" />
+    <node id="IL9" />
+    <node id="CCND2" />
+    <node id="MMP3" />
+    <node id="PLAU" />
+    <node id="DNMT1" />
+    <node id="KDM6A" />
+    <node id="ASXL1" />
+    <node id="PMAIP1" />
+    <node id="BMP6" />
+    <node id="WNT7A" />
+    <node id="CD99" />
+    <edge source="TYMS" target="TP53">
+      <data key="d0">0.774</data>
+    </edge>
+    <edge source="TYMS" target="BIRC5">
+      <data key="d0">0.862</data>
+    </edge>
+    <edge source="TYMS" target="FOLR1">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="TYMS" target="DHFR">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BRCA2" target="CCND1">
+      <data key="d0">0.861</data>
+    </edge>
+    <edge source="BRCA2" target="KRAS">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="BRCA2" target="CDK4">
+      <data key="d0">0.943</data>
+    </edge>
+    <edge source="BRCA2" target="MDM2">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="BRCA2" target="PIK3CA">
+      <data key="d0">0.812</data>
+    </edge>
+    <edge source="BRCA2" target="TP53">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="BRCA2" target="ERBB2">
+      <data key="d0">0.873</data>
+    </edge>
+    <edge source="BRCA2" target="ATM">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="BRCA2" target="PTEN">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="BRCA2" target="CDKN2A">
+      <data key="d0">0.806</data>
+    </edge>
+    <edge source="BRCA2" target="BRCA1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BRCA1" target="CCND1">
+      <data key="d0">0.922</data>
+    </edge>
+    <edge source="BRCA1" target="KRAS">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="BRCA1" target="CDK4">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="BRCA1" target="MDM2">
+      <data key="d0">0.794</data>
+    </edge>
+    <edge source="BRCA1" target="PIK3CA">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="BRCA1" target="STAT3">
+      <data key="d0">0.812</data>
+    </edge>
+    <edge source="BRCA1" target="TP53">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BRCA1" target="ERBB2">
+      <data key="d0">0.918</data>
+    </edge>
+    <edge source="BRCA1" target="EGFR">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="BRCA1" target="ATM">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BRCA1" target="EZH2">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="BRCA1" target="PTEN">
+      <data key="d0">0.821</data>
+    </edge>
+    <edge source="BRCA1" target="GATA3">
+      <data key="d0">0.77</data>
+    </edge>
+    <edge source="BRCA1" target="BCL2">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="BRCA1" target="CDKN2A">
+      <data key="d0">0.832</data>
+    </edge>
+    <edge source="BRCA1" target="CTNNB1">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="BRCA1" target="PIK3R1">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="BRCA1" target="AKT1">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="ATM" target="KRAS">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="ATM" target="CDK4">
+      <data key="d0">0.937</data>
+    </edge>
+    <edge source="ATM" target="MDM2">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="ATM" target="TP53">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="ATM" target="ERBB2">
+      <data key="d0">0.748</data>
+    </edge>
+    <edge source="ATM" target="CASP3">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="ATM" target="BCL2">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="ATM" target="AKT1">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="ATM" target="CDKN2A">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="ATM" target="PTEN">
+      <data key="d0">0.897</data>
+    </edge>
+    <edge source="ATM" target="CASP8">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="SNAI2" target="TGFB1">
+      <data key="d0">0.711</data>
+    </edge>
+    <edge source="SNAI2" target="MMP9">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="SNAI2" target="EGF">
+      <data key="d0">0.732</data>
+    </edge>
+    <edge source="SNAI2" target="YAP1">
+      <data key="d0">0.732</data>
+    </edge>
+    <edge source="SNAI2" target="AKT1">
+      <data key="d0">0.739</data>
+    </edge>
+    <edge source="SNAI2" target="KIT">
+      <data key="d0">0.744</data>
+    </edge>
+    <edge source="SNAI2" target="CTNNB1">
+      <data key="d0">0.801</data>
+    </edge>
+    <edge source="SNAI2" target="EZH2">
+      <data key="d0">0.843</data>
+    </edge>
+    <edge source="SNAI2" target="MDM2">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="SNAI2" target="SNAI1">
+      <data key="d0">0.864</data>
+    </edge>
+    <edge source="SNAI2" target="VIM">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="SNAI2" target="CDH2">
+      <data key="d0">0.891</data>
+    </edge>
+    <edge source="SNAI2" target="TP53">
+      <data key="d0">0.915</data>
+    </edge>
+    <edge source="SNAI2" target="CDH1">
+      <data key="d0">0.929</data>
+    </edge>
+    <edge source="TGFB1" target="PECAM1">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="TGFB1" target="KIT">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="TGFB1" target="CASP3">
+      <data key="d0">0.706</data>
+    </edge>
+    <edge source="TGFB1" target="SPP1">
+      <data key="d0">0.716</data>
+    </edge>
+    <edge source="TGFB1" target="FLT1">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="TGFB1" target="KDR">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="TGFB1" target="CDH2">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="TGFB1" target="MET">
+      <data key="d0">0.739</data>
+    </edge>
+    <edge source="TGFB1" target="PDGFB">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="TGFB1" target="CD44">
+      <data key="d0">0.747</data>
+    </edge>
+    <edge source="TGFB1" target="CD274">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="TGFB1" target="CD34">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="TGFB1" target="ALK">
+      <data key="d0">0.788</data>
+    </edge>
+    <edge source="TGFB1" target="CTNNB1">
+      <data key="d0">0.789</data>
+    </edge>
+    <edge source="TGFB1" target="SNAI1">
+      <data key="d0">0.793</data>
+    </edge>
+    <edge source="TGFB1" target="CXCL12">
+      <data key="d0">0.798</data>
+    </edge>
+    <edge source="TGFB1" target="TP53">
+      <data key="d0">0.809</data>
+    </edge>
+    <edge source="TGFB1" target="PDGFRB">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="TGFB1" target="HIF1A">
+      <data key="d0">0.838</data>
+    </edge>
+    <edge source="TGFB1" target="CDH1">
+      <data key="d0">0.841</data>
+    </edge>
+    <edge source="TGFB1" target="AKT1">
+      <data key="d0">0.868</data>
+    </edge>
+    <edge source="TGFB1" target="STAT3">
+      <data key="d0">0.87</data>
+    </edge>
+    <edge source="TGFB1" target="EGF">
+      <data key="d0">0.904</data>
+    </edge>
+    <edge source="TGFB1" target="HGF">
+      <data key="d0">0.921</data>
+    </edge>
+    <edge source="TGFB1" target="MMP9">
+      <data key="d0">0.968</data>
+    </edge>
+    <edge source="TGFB1" target="EGFR">
+      <data key="d0">0.975</data>
+    </edge>
+    <edge source="TGFB1" target="IGF1">
+      <data key="d0">0.976</data>
+    </edge>
+    <edge source="TGFB1" target="FGF2">
+      <data key="d0">0.982</data>
+    </edge>
+    <edge source="MMP9" target="HGF">
+      <data key="d0">0.799</data>
+    </edge>
+    <edge source="MMP9" target="CCND1">
+      <data key="d0">0.799</data>
+    </edge>
+    <edge source="MMP9" target="SNAI1">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="MMP9" target="CDH1">
+      <data key="d0">0.957</data>
+    </edge>
+    <edge source="MMP9" target="KDR">
+      <data key="d0">0.811</data>
+    </edge>
+    <edge source="MMP9" target="FGF2">
+      <data key="d0">0.919</data>
+    </edge>
+    <edge source="MMP9" target="STAT3">
+      <data key="d0">0.89</data>
+    </edge>
+    <edge source="MMP9" target="EGF">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="MMP9" target="CDH2">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="MMP9" target="TP53">
+      <data key="d0">0.838</data>
+    </edge>
+    <edge source="MMP9" target="EGFR">
+      <data key="d0">0.827</data>
+    </edge>
+    <edge source="MMP9" target="FLT1">
+      <data key="d0">0.779</data>
+    </edge>
+    <edge source="MMP9" target="CD34">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="MMP9" target="CASP3">
+      <data key="d0">0.806</data>
+    </edge>
+    <edge source="MMP9" target="MET">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="MMP9" target="CASP8">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="MMP9" target="PTEN">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="MMP9" target="PGF">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="MMP9" target="VIM">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="MMP9" target="PECAM1">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="MMP9" target="IGF1">
+      <data key="d0">0.767</data>
+    </edge>
+    <edge source="MMP9" target="CTNNB1">
+      <data key="d0">0.799</data>
+    </edge>
+    <edge source="MMP9" target="BCL2">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="MMP9" target="HIF1A">
+      <data key="d0">0.824</data>
+    </edge>
+    <edge source="MMP9" target="AKT1">
+      <data key="d0">0.827</data>
+    </edge>
+    <edge source="MMP9" target="CXCL12">
+      <data key="d0">0.891</data>
+    </edge>
+    <edge source="MMP9" target="SPP1">
+      <data key="d0">0.947</data>
+    </edge>
+    <edge source="MMP9" target="CD44">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="MMP9" target="MMP2">
+      <data key="d0">0.918</data>
+    </edge>
+    <edge source="MMP9" target="CCL2">
+      <data key="d0">0.809</data>
+    </edge>
+    <edge source="MMP9" target="MAPK3">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="MMP9" target="IL1B">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="MMP9" target="STAT6">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="MMP9" target="CXCL8">
+      <data key="d0">0.88</data>
+    </edge>
+    <edge source="MMP9" target="MMP14">
+      <data key="d0">0.831</data>
+    </edge>
+    <edge source="MMP9" target="PLAUR">
+      <data key="d0">0.772</data>
+    </edge>
+    <edge source="MMP9" target="FN1">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="MMP9" target="STAT1">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="MMP9" target="PTGS2">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="MMP9" target="CCN2">
+      <data key="d0">0.809</data>
+    </edge>
+    <edge source="MMP9" target="MYC">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="MMP9" target="ESR1">
+      <data key="d0">0.772</data>
+    </edge>
+    <edge source="MMP9" target="KITLG">
+      <data key="d0">0.921</data>
+    </edge>
+    <edge source="MMP9" target="IL6">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="MMP9" target="SDC1">
+      <data key="d0">0.968</data>
+    </edge>
+    <edge source="MMP9" target="SRC">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="EGF" target="MAPK1">
+      <data key="d0">0.789</data>
+    </edge>
+    <edge source="EGF" target="HGF">
+      <data key="d0">0.844</data>
+    </edge>
+    <edge source="EGF" target="CCND1">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="EGF" target="SNAI1">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="EGF" target="KRAS">
+      <data key="d0">0.854</data>
+    </edge>
+    <edge source="EGF" target="CDH1">
+      <data key="d0">0.852</data>
+    </edge>
+    <edge source="EGF" target="PDGFRB">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="EGF" target="FLT4">
+      <data key="d0">0.911</data>
+    </edge>
+    <edge source="EGF" target="KDR">
+      <data key="d0">0.928</data>
+    </edge>
+    <edge source="EGF" target="PIK3CA">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="EGF" target="FGF2">
+      <data key="d0">0.969</data>
+    </edge>
+    <edge source="EGF" target="STAT3">
+      <data key="d0">0.907</data>
+    </edge>
+    <edge source="EGF" target="SPP1">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="EGF" target="PTEN">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="EGF" target="MUC1">
+      <data key="d0">0.763</data>
+    </edge>
+    <edge source="EGF" target="TP53">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="EGF" target="CDH2">
+      <data key="d0">0.784</data>
+    </edge>
+    <edge source="EGF" target="HIF1A">
+      <data key="d0">0.785</data>
+    </edge>
+    <edge source="EGF" target="CXCL12">
+      <data key="d0">0.79</data>
+    </edge>
+    <edge source="EGF" target="CASP3">
+      <data key="d0">0.801</data>
+    </edge>
+    <edge source="EGF" target="CTNNB1">
+      <data key="d0">0.868</data>
+    </edge>
+    <edge source="EGF" target="FLT1">
+      <data key="d0">0.902</data>
+    </edge>
+    <edge source="EGF" target="PIK3R1">
+      <data key="d0">0.911</data>
+    </edge>
+    <edge source="EGF" target="CD44">
+      <data key="d0">0.922</data>
+    </edge>
+    <edge source="EGF" target="FGFR1">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="EGF" target="AKT1">
+      <data key="d0">0.933</data>
+    </edge>
+    <edge source="EGF" target="PDGFC">
+      <data key="d0">0.935</data>
+    </edge>
+    <edge source="EGF" target="PDGFD">
+      <data key="d0">0.937</data>
+    </edge>
+    <edge source="EGF" target="MET">
+      <data key="d0">0.945</data>
+    </edge>
+    <edge source="EGF" target="PDGFA">
+      <data key="d0">0.95</data>
+    </edge>
+    <edge source="EGF" target="PDGFB">
+      <data key="d0">0.955</data>
+    </edge>
+    <edge source="EGF" target="KIT">
+      <data key="d0">0.973</data>
+    </edge>
+    <edge source="EGF" target="IGF1">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="EGF" target="AREG">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="EGF" target="ERBB2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EGF" target="EGFR">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EGF" target="CSF3">
+      <data key="d0">0.957</data>
+    </edge>
+    <edge source="EGF" target="PDGFRA">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="EGF" target="MAPK3">
+      <data key="d0">0.841</data>
+    </edge>
+    <edge source="EGF" target="IL1B">
+      <data key="d0">0.762</data>
+    </edge>
+    <edge source="EGF" target="TERT">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="EGF" target="CXCL8">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="EGF" target="KITLG">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="EGF" target="ANGPT1">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="EGF" target="VEGFC">
+      <data key="d0">0.73</data>
+    </edge>
+    <edge source="EGF" target="CCN2">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="EGF" target="PTK2">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="EGF" target="FOS">
+      <data key="d0">0.788</data>
+    </edge>
+    <edge source="EGF" target="ESR1">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="EGF" target="CSF1R">
+      <data key="d0">0.811</data>
+    </edge>
+    <edge source="EGF" target="MYC">
+      <data key="d0">0.836</data>
+    </edge>
+    <edge source="EGF" target="FGF1">
+      <data key="d0">0.841</data>
+    </edge>
+    <edge source="EGF" target="IL6">
+      <data key="d0">0.89</data>
+    </edge>
+    <edge source="EGF" target="SRC">
+      <data key="d0">0.922</data>
+    </edge>
+    <edge source="EGF" target="FGFR2">
+      <data key="d0">0.936</data>
+    </edge>
+    <edge source="EGF" target="FN1">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="EGF" target="TGFA">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="EGF" target="ERBB3">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="YAP1" target="SNAI1">
+      <data key="d0">0.776</data>
+    </edge>
+    <edge source="YAP1" target="CDH1">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="YAP1" target="STAT3">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="YAP1" target="TP63">
+      <data key="d0">0.796</data>
+    </edge>
+    <edge source="YAP1" target="TP53">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="YAP1" target="EGFR">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="YAP1" target="NF2">
+      <data key="d0">0.873</data>
+    </edge>
+    <edge source="YAP1" target="LATS2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="YAP1" target="CTNNB1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="AKT1" target="MAPK1">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="AKT1" target="HGF">
+      <data key="d0">0.882</data>
+    </edge>
+    <edge source="AKT1" target="CCND1">
+      <data key="d0">0.923</data>
+    </edge>
+    <edge source="AKT1" target="SNAI1">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="AKT1" target="KRAS">
+      <data key="d0">0.904</data>
+    </edge>
+    <edge source="AKT1" target="MDM2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="AKT1" target="CDH1">
+      <data key="d0">0.903</data>
+    </edge>
+    <edge source="AKT1" target="PIK3R3">
+      <data key="d0">0.962</data>
+    </edge>
+    <edge source="AKT1" target="KDR">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="AKT1" target="PIK3CA">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="AKT1" target="FGF2">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="AKT1" target="STAT3">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="AKT1" target="CDH2">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="AKT1" target="TP53">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="AKT1" target="EGFR">
+      <data key="d0">0.792</data>
+    </edge>
+    <edge source="AKT1" target="KIT">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="AKT1" target="BAX">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="AKT1" target="CASP3">
+      <data key="d0">0.945</data>
+    </edge>
+    <edge source="AKT1" target="EZH2">
+      <data key="d0">0.867</data>
+    </edge>
+    <edge source="AKT1" target="PDGFB">
+      <data key="d0">0.782</data>
+    </edge>
+    <edge source="AKT1" target="NF2">
+      <data key="d0">0.842</data>
+    </edge>
+    <edge source="AKT1" target="RASSF1">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="AKT1" target="CASP8">
+      <data key="d0">0.79</data>
+    </edge>
+    <edge source="AKT1" target="MTOR">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="AKT1" target="MCL1">
+      <data key="d0">0.867</data>
+    </edge>
+    <edge source="AKT1" target="XIAP">
+      <data key="d0">0.939</data>
+    </edge>
+    <edge source="AKT1" target="PTEN">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="AKT1" target="TXN">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="AKT1" target="BCL2L1">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="AKT1" target="IFNB1">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="AKT1" target="CD274">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="AKT1" target="IGF1">
+      <data key="d0">0.935</data>
+    </edge>
+    <edge source="AKT1" target="CXCL12">
+      <data key="d0">0.722</data>
+    </edge>
+    <edge source="AKT1" target="BCL2">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="AKT1" target="CD44">
+      <data key="d0">0.777</data>
+    </edge>
+    <edge source="AKT1" target="SLC2A1">
+      <data key="d0">0.708</data>
+    </edge>
+    <edge source="AKT1" target="CDKN2A">
+      <data key="d0">0.866</data>
+    </edge>
+    <edge source="AKT1" target="PIK3R1">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="AKT1" target="HIF1A">
+      <data key="d0">0.932</data>
+    </edge>
+    <edge source="AKT1" target="VIM">
+      <data key="d0">0.779</data>
+    </edge>
+    <edge source="AKT1" target="PECAM1">
+      <data key="d0">0.719</data>
+    </edge>
+    <edge source="AKT1" target="BCL10">
+      <data key="d0">0.771</data>
+    </edge>
+    <edge source="AKT1" target="CTNNB1">
+      <data key="d0">0.979</data>
+    </edge>
+    <edge source="AKT1" target="MMP2">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="AKT1" target="CCL2">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="AKT1" target="GLI1">
+      <data key="d0">0.794</data>
+    </edge>
+    <edge source="AKT1" target="MAPK3">
+      <data key="d0">0.957</data>
+    </edge>
+    <edge source="AKT1" target="IL1B">
+      <data key="d0">0.864</data>
+    </edge>
+    <edge source="AKT1" target="ERBB3">
+      <data key="d0">0.854</data>
+    </edge>
+    <edge source="AKT1" target="TSC1">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="AKT1" target="STAT6">
+      <data key="d0">0.823</data>
+    </edge>
+    <edge source="AKT1" target="FOS">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="AKT1" target="CXCL8">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="AKT1" target="TERT">
+      <data key="d0">0.903</data>
+    </edge>
+    <edge source="AKT1" target="EIF4EBP1">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="AKT1" target="PTK2">
+      <data key="d0">0.879</data>
+    </edge>
+    <edge source="AKT1" target="E2F1">
+      <data key="d0">0.797</data>
+    </edge>
+    <edge source="AKT1" target="FN1">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="AKT1" target="STAT1">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="AKT1" target="PARP1">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="AKT1" target="PTGS2">
+      <data key="d0">0.775</data>
+    </edge>
+    <edge source="AKT1" target="CCN2">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="AKT1" target="SRC">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="AKT1" target="SDC1">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="AKT1" target="CDKN1A">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="AKT1" target="IL6">
+      <data key="d0">0.872</data>
+    </edge>
+    <edge source="AKT1" target="CREB1">
+      <data key="d0">0.965</data>
+    </edge>
+    <edge source="AKT1" target="TGFA">
+      <data key="d0">0.764</data>
+    </edge>
+    <edge source="AKT1" target="ESR1">
+      <data key="d0">0.913</data>
+    </edge>
+    <edge source="AKT1" target="BRAF">
+      <data key="d0">0.783</data>
+    </edge>
+    <edge source="AKT1" target="ANGPT1">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="AKT1" target="KITLG">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="AKT1" target="CTLA4">
+      <data key="d0">0.811</data>
+    </edge>
+    <edge source="AKT1" target="MYC">
+      <data key="d0">0.928</data>
+    </edge>
+    <edge source="KIT" target="HGF">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="KIT" target="CCND1">
+      <data key="d0">0.749</data>
+    </edge>
+    <edge source="KIT" target="KRAS">
+      <data key="d0">0.976</data>
+    </edge>
+    <edge source="KIT" target="PIK3R3">
+      <data key="d0">0.932</data>
+    </edge>
+    <edge source="KIT" target="PIK3CA">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="KIT" target="FGF2">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="KIT" target="SHC2">
+      <data key="d0">0.934</data>
+    </edge>
+    <edge source="KIT" target="STAT3">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="KIT" target="TP53">
+      <data key="d0">0.816</data>
+    </edge>
+    <edge source="KIT" target="BCL2">
+      <data key="d0">0.707</data>
+    </edge>
+    <edge source="KIT" target="KRT7">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="KIT" target="PTEN">
+      <data key="d0">0.719</data>
+    </edge>
+    <edge source="KIT" target="PDGFD">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="KIT" target="PDGFC">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="KIT" target="AREG">
+      <data key="d0">0.767</data>
+    </edge>
+    <edge source="KIT" target="PECAM1">
+      <data key="d0">0.774</data>
+    </edge>
+    <edge source="KIT" target="CD44">
+      <data key="d0">0.794</data>
+    </edge>
+    <edge source="KIT" target="PGF">
+      <data key="d0">0.798</data>
+    </edge>
+    <edge source="KIT" target="PDGFA">
+      <data key="d0">0.801</data>
+    </edge>
+    <edge source="KIT" target="IGF1">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="KIT" target="PDGFB">
+      <data key="d0">0.876</data>
+    </edge>
+    <edge source="KIT" target="SHC4">
+      <data key="d0">0.921</data>
+    </edge>
+    <edge source="KIT" target="CD34">
+      <data key="d0">0.956</data>
+    </edge>
+    <edge source="KIT" target="CXCL12">
+      <data key="d0">0.974</data>
+    </edge>
+    <edge source="KIT" target="PIK3R1">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="CTNNB1" target="MAPK1">
+      <data key="d0">0.736</data>
+    </edge>
+    <edge source="CTNNB1" target="CCND1">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="CTNNB1" target="SNAI1">
+      <data key="d0">0.934</data>
+    </edge>
+    <edge source="CTNNB1" target="KRAS">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="CTNNB1" target="CDK4">
+      <data key="d0">0.795</data>
+    </edge>
+    <edge source="CTNNB1" target="MDM2">
+      <data key="d0">0.823</data>
+    </edge>
+    <edge source="CTNNB1" target="CDH1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CTNNB1" target="KDR">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="CTNNB1" target="PIK3CA">
+      <data key="d0">0.901</data>
+    </edge>
+    <edge source="CTNNB1" target="FGF2">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="CTNNB1" target="STAT3">
+      <data key="d0">0.897</data>
+    </edge>
+    <edge source="CTNNB1" target="CDH2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CTNNB1" target="TP53">
+      <data key="d0">0.927</data>
+    </edge>
+    <edge source="CTNNB1" target="ERBB2">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CTNNB1" target="EGFR">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CTNNB1" target="FLT1">
+      <data key="d0">0.799</data>
+    </edge>
+    <edge source="CTNNB1" target="CASP3">
+      <data key="d0">0.965</data>
+    </edge>
+    <edge source="CTNNB1" target="MET">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="CTNNB1" target="EZH2">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="CTNNB1" target="NF2">
+      <data key="d0">0.889</data>
+    </edge>
+    <edge source="CTNNB1" target="CASP8">
+      <data key="d0">0.768</data>
+    </edge>
+    <edge source="CTNNB1" target="MCL1">
+      <data key="d0">0.749</data>
+    </edge>
+    <edge source="CTNNB1" target="PTEN">
+      <data key="d0">0.943</data>
+    </edge>
+    <edge source="CTNNB1" target="BCL2L1">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="CTNNB1" target="MUC16">
+      <data key="d0">0.778</data>
+    </edge>
+    <edge source="CTNNB1" target="BCL2">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="CTNNB1" target="FGFR1">
+      <data key="d0">0.947</data>
+    </edge>
+    <edge source="CTNNB1" target="CD44">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="CTNNB1" target="SFRP4">
+      <data key="d0">0.771</data>
+    </edge>
+    <edge source="CTNNB1" target="CDKN2A">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="CTNNB1" target="PIK3R1">
+      <data key="d0">0.858</data>
+    </edge>
+    <edge source="CTNNB1" target="HIF1A">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CTNNB1" target="VIM">
+      <data key="d0">0.74</data>
+    </edge>
+    <edge source="CTNNB1" target="PECAM1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CTNNB1" target="MUC1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CTNNB1" target="MMP2">
+      <data key="d0">0.803</data>
+    </edge>
+    <edge source="CTNNB1" target="SFRP1">
+      <data key="d0">0.874</data>
+    </edge>
+    <edge source="CTNNB1" target="GLI1">
+      <data key="d0">0.829</data>
+    </edge>
+    <edge source="CTNNB1" target="PDGFRA">
+      <data key="d0">0.756</data>
+    </edge>
+    <edge source="CTNNB1" target="MAPK3">
+      <data key="d0">0.873</data>
+    </edge>
+    <edge source="CTNNB1" target="IL1B">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="CTNNB1" target="ERBB3">
+      <data key="d0">0.707</data>
+    </edge>
+    <edge source="CTNNB1" target="SFRP2">
+      <data key="d0">0.838</data>
+    </edge>
+    <edge source="CTNNB1" target="WIF1">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="CTNNB1" target="CTNNA1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CTNNB1" target="CXCL8">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="CTNNB1" target="TERT">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="CTNNB1" target="SP1">
+      <data key="d0">0.844</data>
+    </edge>
+    <edge source="CTNNB1" target="PTK2">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="CTNNB1" target="FOXM1">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="CTNNB1" target="FN1">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="CTNNB1" target="STAT1">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="CTNNB1" target="PARP1">
+      <data key="d0">0.749</data>
+    </edge>
+    <edge source="CTNNB1" target="PTGS2">
+      <data key="d0">0.768</data>
+    </edge>
+    <edge source="CTNNB1" target="SRC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CTNNB1" target="DKK1">
+      <data key="d0">0.963</data>
+    </edge>
+    <edge source="CTNNB1" target="TLE1">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="CTNNB1" target="CA9">
+      <data key="d0">0.703</data>
+    </edge>
+    <edge source="CTNNB1" target="IL6">
+      <data key="d0">0.813</data>
+    </edge>
+    <edge source="CTNNB1" target="CREB1">
+      <data key="d0">0.95</data>
+    </edge>
+    <edge source="CTNNB1" target="ESR1">
+      <data key="d0">0.965</data>
+    </edge>
+    <edge source="CTNNB1" target="BRAF">
+      <data key="d0">0.795</data>
+    </edge>
+    <edge source="CTNNB1" target="WWTR1">
+      <data key="d0">0.817</data>
+    </edge>
+    <edge source="CTNNB1" target="MYC">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="CTNNB1" target="DVL2">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="CTNNB1" target="CSNK2A1">
+      <data key="d0">0.936</data>
+    </edge>
+    <edge source="CTNNB1" target="NFKB1">
+      <data key="d0">0.964</data>
+    </edge>
+    <edge source="CTNNB1" target="APC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CTNNB1" target="CSNK2A2">
+      <data key="d0">0.945</data>
+    </edge>
+    <edge source="CTNNB1" target="WNT7A">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="CTNNB1" target="DVL3">
+      <data key="d0">0.887</data>
+    </edge>
+    <edge source="CTNNB1" target="DNMT1">
+      <data key="d0">0.817</data>
+    </edge>
+    <edge source="CTNNB1" target="DVL1">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="CTNNB1" target="FOXO1">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="CTNNB1" target="MAPK8">
+      <data key="d0">0.719</data>
+    </edge>
+    <edge source="CTNNB1" target="RELA">
+      <data key="d0">0.92</data>
+    </edge>
+    <edge source="CTNNB1" target="TNF">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="CTNNB1" target="HRAS">
+      <data key="d0">0.865</data>
+    </edge>
+    <edge source="CTNNB1" target="CSNK2A3">
+      <data key="d0">0.913</data>
+    </edge>
+    <edge source="EZH2" target="SNAI1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="EZH2" target="MDM2">
+      <data key="d0">0.945</data>
+    </edge>
+    <edge source="EZH2" target="STAT3">
+      <data key="d0">0.973</data>
+    </edge>
+    <edge source="EZH2" target="TP53">
+      <data key="d0">0.899</data>
+    </edge>
+    <edge source="EZH2" target="EGFR">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="EZH2" target="HIF1A">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="EZH2" target="PTEN">
+      <data key="d0">0.76</data>
+    </edge>
+    <edge source="EZH2" target="CDKN2A">
+      <data key="d0">0.813</data>
+    </edge>
+    <edge source="EZH2" target="WT1">
+      <data key="d0">0.824</data>
+    </edge>
+    <edge source="MDM2" target="CCND1">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="MDM2" target="SNAI1">
+      <data key="d0">0.851</data>
+    </edge>
+    <edge source="MDM2" target="CDK4">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="MDM2" target="STAT3">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="MDM2" target="CDKN2B">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="MDM2" target="MCL1">
+      <data key="d0">0.75</data>
+    </edge>
+    <edge source="MDM2" target="CASP8">
+      <data key="d0">0.75</data>
+    </edge>
+    <edge source="MDM2" target="BCL2L1">
+      <data key="d0">0.794</data>
+    </edge>
+    <edge source="MDM2" target="RASSF1">
+      <data key="d0">0.892</data>
+    </edge>
+    <edge source="MDM2" target="EGFR">
+      <data key="d0">0.897</data>
+    </edge>
+    <edge source="MDM2" target="TP63">
+      <data key="d0">0.9</data>
+    </edge>
+    <edge source="MDM2" target="PTEN">
+      <data key="d0">0.902</data>
+    </edge>
+    <edge source="MDM2" target="CDH1">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="MDM2" target="XIAP">
+      <data key="d0">0.929</data>
+    </edge>
+    <edge source="MDM2" target="BCL2">
+      <data key="d0">0.953</data>
+    </edge>
+    <edge source="MDM2" target="LATS2">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="MDM2" target="CASP3">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="MDM2" target="HIF1A">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="MDM2" target="CDKN2A">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="MDM2" target="TP53">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="SNAI1" target="CCND1">
+      <data key="d0">0.705</data>
+    </edge>
+    <edge source="SNAI1" target="EGFR">
+      <data key="d0">0.711</data>
+    </edge>
+    <edge source="SNAI1" target="CD44">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="SNAI1" target="MET">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="SNAI1" target="CASP3">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="SNAI1" target="LATS2">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="SNAI1" target="PTEN">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="SNAI1" target="STAT3">
+      <data key="d0">0.806</data>
+    </edge>
+    <edge source="SNAI1" target="HIF1A">
+      <data key="d0">0.823</data>
+    </edge>
+    <edge source="SNAI1" target="FGFR1">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="SNAI1" target="VIM">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="SNAI1" target="CDH2">
+      <data key="d0">0.932</data>
+    </edge>
+    <edge source="SNAI1" target="CDH1">
+      <data key="d0">0.965</data>
+    </edge>
+    <edge source="SNAI1" target="TP53">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="VIM" target="CDH1">
+      <data key="d0">0.892</data>
+    </edge>
+    <edge source="VIM" target="STAT3">
+      <data key="d0">0.826</data>
+    </edge>
+    <edge source="VIM" target="CDH2">
+      <data key="d0">0.785</data>
+    </edge>
+    <edge source="VIM" target="TP53">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="VIM" target="CASP3">
+      <data key="d0">0.908</data>
+    </edge>
+    <edge source="VIM" target="CASP8">
+      <data key="d0">0.82</data>
+    </edge>
+    <edge source="VIM" target="CD44">
+      <data key="d0">0.809</data>
+    </edge>
+    <edge source="CDH2" target="CCND1">
+      <data key="d0">0.726</data>
+    </edge>
+    <edge source="CDH2" target="CDH1">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="CDH2" target="ERBB2">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="CDH2" target="MET">
+      <data key="d0">0.75</data>
+    </edge>
+    <edge source="CDH2" target="PTEN">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="CDH2" target="EGFR">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="CDH2" target="CD44">
+      <data key="d0">0.84</data>
+    </edge>
+    <edge source="CDH2" target="FGFR1">
+      <data key="d0">0.946</data>
+    </edge>
+    <edge source="TP53" target="MAPK1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="TP53" target="CCND1">
+      <data key="d0">0.946</data>
+    </edge>
+    <edge source="TP53" target="KRT5">
+      <data key="d0">0.737</data>
+    </edge>
+    <edge source="TP53" target="KRAS">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="TP53" target="CDK4">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="TP53" target="CDH1">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="TP53" target="PAX8">
+      <data key="d0">0.772</data>
+    </edge>
+    <edge source="TP53" target="KDR">
+      <data key="d0">0.73</data>
+    </edge>
+    <edge source="TP53" target="PIK3CA">
+      <data key="d0">0.941</data>
+    </edge>
+    <edge source="TP53" target="FGF2">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="TP53" target="STAT3">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="TP53" target="TP63">
+      <data key="d0">0.953</data>
+    </edge>
+    <edge source="TP53" target="CD34">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="TP53" target="IGF1">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="TP53" target="GATA3">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="TP53" target="LATS2">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="TP53" target="ALK">
+      <data key="d0">0.772</data>
+    </edge>
+    <edge source="TP53" target="NF2">
+      <data key="d0">0.773</data>
+    </edge>
+    <edge source="TP53" target="CD274">
+      <data key="d0">0.776</data>
+    </edge>
+    <edge source="TP53" target="DHFR">
+      <data key="d0">0.785</data>
+    </edge>
+    <edge source="TP53" target="KRT7">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="TP53" target="MET">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="TP53" target="XIAP">
+      <data key="d0">0.836</data>
+    </edge>
+    <edge source="TP53" target="SETD2">
+      <data key="d0">0.845</data>
+    </edge>
+    <edge source="TP53" target="PIK3R1">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="TP53" target="CDKN2B">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="TP53" target="MTOR">
+      <data key="d0">0.874</data>
+    </edge>
+    <edge source="TP53" target="CD44">
+      <data key="d0">0.876</data>
+    </edge>
+    <edge source="TP53" target="TXN">
+      <data key="d0">0.899</data>
+    </edge>
+    <edge source="TP53" target="TNFRSF10B">
+      <data key="d0">0.908</data>
+    </edge>
+    <edge source="TP53" target="MCL1">
+      <data key="d0">0.918</data>
+    </edge>
+    <edge source="TP53" target="BIRC5">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="TP53" target="ERBB2">
+      <data key="d0">0.935</data>
+    </edge>
+    <edge source="TP53" target="EGFR">
+      <data key="d0">0.943</data>
+    </edge>
+    <edge source="TP53" target="CASP3">
+      <data key="d0">0.956</data>
+    </edge>
+    <edge source="TP53" target="MUC1">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="TP53" target="SLC2A1">
+      <data key="d0">0.967</data>
+    </edge>
+    <edge source="TP53" target="WT1">
+      <data key="d0">0.983</data>
+    </edge>
+    <edge source="TP53" target="CASP8">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="TP53" target="BAX">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="TP53" target="HMGB1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="TP53" target="HIF1A">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="TP53" target="BCL2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="TP53" target="BCL2L1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="TP53" target="CDKN2A">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="TP53" target="PTEN">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="TP53" target="VHL">
+      <data key="d0">0.784</data>
+    </edge>
+    <edge source="TP53" target="PDGFRA">
+      <data key="d0">0.762</data>
+    </edge>
+    <edge source="TP53" target="BARD1">
+      <data key="d0">0.982</data>
+    </edge>
+    <edge source="TP53" target="YY1">
+      <data key="d0">0.942</data>
+    </edge>
+    <edge source="TP53" target="XRCC1">
+      <data key="d0">0.75</data>
+    </edge>
+    <edge source="TP53" target="MAPK3">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="TP53" target="IL1B">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="TP53" target="IGF2">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="TP53" target="STMN1">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="TP53" target="IL6">
+      <data key="d0">0.777</data>
+    </edge>
+    <edge source="TP53" target="STAT1">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="TP53" target="FOXM1">
+      <data key="d0">0.79</data>
+    </edge>
+    <edge source="TP53" target="STAT6">
+      <data key="d0">0.803</data>
+    </edge>
+    <edge source="TP53" target="CXCL8">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="TP53" target="EWSR1">
+      <data key="d0">0.81</data>
+    </edge>
+    <edge source="TP53" target="BID">
+      <data key="d0">0.856</data>
+    </edge>
+    <edge source="TP53" target="SRC">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="TP53" target="BRAF">
+      <data key="d0">0.887</data>
+    </edge>
+    <edge source="TP53" target="TERT">
+      <data key="d0">0.902</data>
+    </edge>
+    <edge source="TP53" target="PTK2">
+      <data key="d0">0.928</data>
+    </edge>
+    <edge source="TP53" target="FOS">
+      <data key="d0">0.952</data>
+    </edge>
+    <edge source="TP53" target="PARP1">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="TP53" target="PTGS2">
+      <data key="d0">0.974</data>
+    </edge>
+    <edge source="TP53" target="E2F1">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="TP53" target="ESR1">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="TP53" target="SP1">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="TP53" target="MYC">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="TP53" target="BAK1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="TP53" target="CREB1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="TP53" target="CDKN1A">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="TP53" target="CSNK2A1">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="TP53" target="NFKB1">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="TP53" target="IL2">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="TP53" target="CSNK2A2">
+      <data key="d0">0.939</data>
+    </edge>
+    <edge source="TP53" target="KDM6A">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="TP53" target="ASXL1">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="TP53" target="JAK2">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="TP53" target="TNF">
+      <data key="d0">0.865</data>
+    </edge>
+    <edge source="TP53" target="FOXO1">
+      <data key="d0">0.886</data>
+    </edge>
+    <edge source="TP53" target="HRAS">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="TP53" target="RELA">
+      <data key="d0">0.955</data>
+    </edge>
+    <edge source="TP53" target="PMAIP1">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="TP53" target="DNMT1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="TP53" target="MAPK8">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="TP53" target="HSP90AA1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CDH1" target="CCND1">
+      <data key="d0">0.851</data>
+    </edge>
+    <edge source="CDH1" target="KRAS">
+      <data key="d0">0.723</data>
+    </edge>
+    <edge source="CDH1" target="CDK4">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="CDH1" target="CDKN2A">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="CDH1" target="CD274">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="CDH1" target="HIF1A">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="CDH1" target="CXCL12">
+      <data key="d0">0.726</data>
+    </edge>
+    <edge source="CDH1" target="IGF1">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="CDH1" target="STAT3">
+      <data key="d0">0.732</data>
+    </edge>
+    <edge source="CDH1" target="BCL2">
+      <data key="d0">0.736</data>
+    </edge>
+    <edge source="CDH1" target="KDR">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="CDH1" target="KRT7">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="CDH1" target="NF2">
+      <data key="d0">0.859</data>
+    </edge>
+    <edge source="CDH1" target="FGFR1">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="CDH1" target="CD44">
+      <data key="d0">0.927</data>
+    </edge>
+    <edge source="CDH1" target="PTEN">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="CDH1" target="CASP3">
+      <data key="d0">0.956</data>
+    </edge>
+    <edge source="CDH1" target="MET">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="CDH1" target="ERBB2">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="CDH1" target="EGFR">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="WT1" target="KRAS">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="WT1" target="PAX8">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="WT1" target="KRT7">
+      <data key="d0">0.832</data>
+    </edge>
+    <edge source="MUC1" target="CEACAM5">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="MUC1" target="STAT3">
+      <data key="d0">0.752</data>
+    </edge>
+    <edge source="MUC1" target="ERBB2">
+      <data key="d0">0.979</data>
+    </edge>
+    <edge source="MUC1" target="EGFR">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="MUC1" target="MET">
+      <data key="d0">0.762</data>
+    </edge>
+    <edge source="MUC1" target="KRT7">
+      <data key="d0">0.768</data>
+    </edge>
+    <edge source="MUC1" target="MSLN">
+      <data key="d0">0.829</data>
+    </edge>
+    <edge source="MUC1" target="MUC16">
+      <data key="d0">0.951</data>
+    </edge>
+    <edge source="MUC1" target="CD44">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="MUC1" target="HIF1A">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="GATA3" target="CCND1">
+      <data key="d0">0.848</data>
+    </edge>
+    <edge source="GATA3" target="PAX8">
+      <data key="d0">0.707</data>
+    </edge>
+    <edge source="GATA3" target="STAT3">
+      <data key="d0">0.883</data>
+    </edge>
+    <edge source="GATA3" target="KRT7">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="GATA3" target="HIF1A">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="PAX8" target="KRAS">
+      <data key="d0">0.747</data>
+    </edge>
+    <edge source="PAX8" target="KRT7">
+      <data key="d0">0.876</data>
+    </edge>
+    <edge source="CEACAM5" target="KRAS">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="CEACAM5" target="EGFR">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="CEACAM5" target="KRT5">
+      <data key="d0">0.753</data>
+    </edge>
+    <edge source="CEACAM5" target="ERBB2">
+      <data key="d0">0.768</data>
+    </edge>
+    <edge source="CEACAM5" target="MSLN">
+      <data key="d0">0.791</data>
+    </edge>
+    <edge source="CEACAM5" target="KRT7">
+      <data key="d0">0.883</data>
+    </edge>
+    <edge source="MAPK1" target="MCL1">
+      <data key="d0">0.74</data>
+    </edge>
+    <edge source="MAPK1" target="FGF2">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="MAPK1" target="HMGB1">
+      <data key="d0">0.792</data>
+    </edge>
+    <edge source="MAPK1" target="PIK3CA">
+      <data key="d0">0.822</data>
+    </edge>
+    <edge source="MAPK1" target="CASP8">
+      <data key="d0">0.839</data>
+    </edge>
+    <edge source="MAPK1" target="CDKN2A">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="MAPK1" target="BCL10">
+      <data key="d0">0.917</data>
+    </edge>
+    <edge source="MAPK1" target="CASP3">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="MAPK1" target="BCL2">
+      <data key="d0">0.969</data>
+    </edge>
+    <edge source="MAPK1" target="HIF1A">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="MAPK1" target="KRAS">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="MAPK1" target="STAT3">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="MAPK1" target="FN1">
+      <data key="d0">0.716</data>
+    </edge>
+    <edge source="MAPK1" target="CDKN1A">
+      <data key="d0">0.732</data>
+    </edge>
+    <edge source="MAPK1" target="CXCL8">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="MAPK1" target="PTGS2">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="MAPK1" target="TSC1">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="MAPK1" target="SRC">
+      <data key="d0">0.932</data>
+    </edge>
+    <edge source="MAPK1" target="IL6">
+      <data key="d0">0.936</data>
+    </edge>
+    <edge source="MAPK1" target="BRAF">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="MAPK1" target="STMN1">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="MAPK1" target="STAT1">
+      <data key="d0">0.95</data>
+    </edge>
+    <edge source="MAPK1" target="CREB1">
+      <data key="d0">0.962</data>
+    </edge>
+    <edge source="MAPK1" target="SP1">
+      <data key="d0">0.969</data>
+    </edge>
+    <edge source="MAPK1" target="EIF4EBP1">
+      <data key="d0">0.978</data>
+    </edge>
+    <edge source="MAPK1" target="MYC">
+      <data key="d0">0.983</data>
+    </edge>
+    <edge source="MAPK1" target="ESR1">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="MAPK1" target="FOS">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="MAPK1" target="MAPK3">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="MCL1" target="CCND1">
+      <data key="d0">0.837</data>
+    </edge>
+    <edge source="MCL1" target="STAT3">
+      <data key="d0">0.883</data>
+    </edge>
+    <edge source="MCL1" target="ERBB2">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="MCL1" target="TNFRSF10B">
+      <data key="d0">0.705</data>
+    </edge>
+    <edge source="MCL1" target="BAX">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="MCL1" target="CASP3">
+      <data key="d0">0.911</data>
+    </edge>
+    <edge source="MCL1" target="CASP8">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="MCL1" target="PTEN">
+      <data key="d0">0.763</data>
+    </edge>
+    <edge source="MCL1" target="BCL2">
+      <data key="d0">0.764</data>
+    </edge>
+    <edge source="MCL1" target="XIAP">
+      <data key="d0">0.809</data>
+    </edge>
+    <edge source="MCL1" target="HIF1A">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="MCL1" target="BCL2L1">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="FGF2" target="HGF">
+      <data key="d0">0.955</data>
+    </edge>
+    <edge source="FGF2" target="KRAS">
+      <data key="d0">0.82</data>
+    </edge>
+    <edge source="FGF2" target="PDGFRB">
+      <data key="d0">0.953</data>
+    </edge>
+    <edge source="FGF2" target="FLT4">
+      <data key="d0">0.942</data>
+    </edge>
+    <edge source="FGF2" target="KDR">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="FGF2" target="PIK3CA">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="FGF2" target="GPC3">
+      <data key="d0">0.706</data>
+    </edge>
+    <edge source="FGF2" target="HIF1A">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="FGF2" target="PGF">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="FGF2" target="CD34">
+      <data key="d0">0.76</data>
+    </edge>
+    <edge source="FGF2" target="PECAM1">
+      <data key="d0">0.801</data>
+    </edge>
+    <edge source="FGF2" target="STAT3">
+      <data key="d0">0.835</data>
+    </edge>
+    <edge source="FGF2" target="ERBB2">
+      <data key="d0">0.857</data>
+    </edge>
+    <edge source="FGF2" target="IGF1">
+      <data key="d0">0.882</data>
+    </edge>
+    <edge source="FGF2" target="PDGFA">
+      <data key="d0">0.886</data>
+    </edge>
+    <edge source="FGF2" target="CXCL12">
+      <data key="d0">0.896</data>
+    </edge>
+    <edge source="FGF2" target="MET">
+      <data key="d0">0.905</data>
+    </edge>
+    <edge source="FGF2" target="PDGFB">
+      <data key="d0">0.953</data>
+    </edge>
+    <edge source="FGF2" target="EGFR">
+      <data key="d0">0.957</data>
+    </edge>
+    <edge source="FGF2" target="FLT1">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="FGF2" target="CD44">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="FGF2" target="FGFR1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="FGF2" target="MMP2">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="FGF2" target="CSF3">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="FGF2" target="CCL2">
+      <data key="d0">0.732</data>
+    </edge>
+    <edge source="FGF2" target="PDGFRA">
+      <data key="d0">0.982</data>
+    </edge>
+    <edge source="FGF2" target="MAPK3">
+      <data key="d0">0.888</data>
+    </edge>
+    <edge source="FGF2" target="IL1B">
+      <data key="d0">0.896</data>
+    </edge>
+    <edge source="FGF2" target="MYC">
+      <data key="d0">0.708</data>
+    </edge>
+    <edge source="FGF2" target="KITLG">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="FGF2" target="PTGS2">
+      <data key="d0">0.79</data>
+    </edge>
+    <edge source="FGF2" target="CCN2">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="FGF2" target="CSF1R">
+      <data key="d0">0.821</data>
+    </edge>
+    <edge source="FGF2" target="ANGPT1">
+      <data key="d0">0.822</data>
+    </edge>
+    <edge source="FGF2" target="TGFA">
+      <data key="d0">0.824</data>
+    </edge>
+    <edge source="FGF2" target="VEGFC">
+      <data key="d0">0.828</data>
+    </edge>
+    <edge source="FGF2" target="CXCL8">
+      <data key="d0">0.857</data>
+    </edge>
+    <edge source="FGF2" target="IL6">
+      <data key="d0">0.882</data>
+    </edge>
+    <edge source="FGF2" target="ERBB3">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="FGF2" target="FGF1">
+      <data key="d0">0.962</data>
+    </edge>
+    <edge source="FGF2" target="FN1">
+      <data key="d0">0.965</data>
+    </edge>
+    <edge source="FGF2" target="SDC1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="FGF2" target="FGFR2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="HMGB1" target="CASP3">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="HMGB1" target="CXCL12">
+      <data key="d0">0.984</data>
+    </edge>
+    <edge source="PIK3CA" target="CCND1">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="PIK3CA" target="KRAS">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="PIK3CA" target="CDK4">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="PIK3CA" target="PDGFRB">
+      <data key="d0">0.976</data>
+    </edge>
+    <edge source="PIK3CA" target="FLT4">
+      <data key="d0">0.81</data>
+    </edge>
+    <edge source="PIK3CA" target="PIK3R3">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PIK3CA" target="KDR">
+      <data key="d0">0.975</data>
+    </edge>
+    <edge source="PIK3CA" target="PDGFA">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="PIK3CA" target="CDKN2A">
+      <data key="d0">0.791</data>
+    </edge>
+    <edge source="PIK3CA" target="STAT3">
+      <data key="d0">0.859</data>
+    </edge>
+    <edge source="PIK3CA" target="FLT1">
+      <data key="d0">0.887</data>
+    </edge>
+    <edge source="PIK3CA" target="MET">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="PIK3CA" target="MTOR">
+      <data key="d0">0.963</data>
+    </edge>
+    <edge source="PIK3CA" target="FGFR1">
+      <data key="d0">0.977</data>
+    </edge>
+    <edge source="PIK3CA" target="ALK">
+      <data key="d0">0.979</data>
+    </edge>
+    <edge source="PIK3CA" target="ERBB2">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="PIK3CA" target="PTEN">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="PIK3CA" target="EGFR">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PIK3CA" target="PIK3R1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PIK3CA" target="PDGFRA">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="PIK3CA" target="MYC">
+      <data key="d0">0.74</data>
+    </edge>
+    <edge source="PIK3CA" target="STAT1">
+      <data key="d0">0.74</data>
+    </edge>
+    <edge source="PIK3CA" target="AXL">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="PIK3CA" target="CSF1R">
+      <data key="d0">0.821</data>
+    </edge>
+    <edge source="PIK3CA" target="FGFR2">
+      <data key="d0">0.908</data>
+    </edge>
+    <edge source="PIK3CA" target="ESR1">
+      <data key="d0">0.941</data>
+    </edge>
+    <edge source="PIK3CA" target="BRAF">
+      <data key="d0">0.947</data>
+    </edge>
+    <edge source="PIK3CA" target="PTK2">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="PIK3CA" target="SRC">
+      <data key="d0">0.984</data>
+    </edge>
+    <edge source="PIK3CA" target="ERBB3">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="CASP8" target="EGFR">
+      <data key="d0">0.737</data>
+    </edge>
+    <edge source="CASP8" target="TNFRSF10B">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CASP8" target="BAX">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="CASP8" target="CASP3">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CASP8" target="IFNB1">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="CASP8" target="PTEN">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="CASP8" target="BCL2L1">
+      <data key="d0">0.933</data>
+    </edge>
+    <edge source="CASP8" target="XIAP">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="CASP8" target="BCL2">
+      <data key="d0">0.984</data>
+    </edge>
+    <edge source="CASP8" target="BCL10">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CASP8" target="MAPK3">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="CASP8" target="IL1B">
+      <data key="d0">0.943</data>
+    </edge>
+    <edge source="CASP8" target="BID">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="CASP8" target="PTGS2">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="CASP8" target="IL6">
+      <data key="d0">0.739</data>
+    </edge>
+    <edge source="CASP8" target="MYC">
+      <data key="d0">0.79</data>
+    </edge>
+    <edge source="CASP8" target="SRC">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="CASP8" target="PARP1">
+      <data key="d0">0.873</data>
+    </edge>
+    <edge source="CDKN2A" target="CCND1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CDKN2A" target="KRAS">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="CDKN2A" target="CDK4">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CDKN2A" target="TP63">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="CDKN2A" target="ERBB2">
+      <data key="d0">0.773</data>
+    </edge>
+    <edge source="CDKN2A" target="EGFR">
+      <data key="d0">0.91</data>
+    </edge>
+    <edge source="CDKN2A" target="CDKN2B">
+      <data key="d0">0.951</data>
+    </edge>
+    <edge source="CDKN2A" target="RASSF1">
+      <data key="d0">0.894</data>
+    </edge>
+    <edge source="CDKN2A" target="PTEN">
+      <data key="d0">0.923</data>
+    </edge>
+    <edge source="CDKN2A" target="BCL2L1">
+      <data key="d0">0.814</data>
+    </edge>
+    <edge source="CDKN2A" target="BCL2">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="CDKN2A" target="HIF1A">
+      <data key="d0">0.956</data>
+    </edge>
+    <edge source="BCL10" target="BCL2">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="CASP3" target="CCND1">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="CASP3" target="CDK4">
+      <data key="d0">0.75</data>
+    </edge>
+    <edge source="CASP3" target="STAT3">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="CASP3" target="EGFR">
+      <data key="d0">0.747</data>
+    </edge>
+    <edge source="CASP3" target="TNFRSF10B">
+      <data key="d0">0.782</data>
+    </edge>
+    <edge source="CASP3" target="BAX">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="CASP3" target="BIRC5">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="CASP3" target="PECAM1">
+      <data key="d0">0.705</data>
+    </edge>
+    <edge source="CASP3" target="MET">
+      <data key="d0">0.708</data>
+    </edge>
+    <edge source="CASP3" target="MTOR">
+      <data key="d0">0.723</data>
+    </edge>
+    <edge source="CASP3" target="PTEN">
+      <data key="d0">0.748</data>
+    </edge>
+    <edge source="CASP3" target="HIF1A">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="CASP3" target="TXN">
+      <data key="d0">0.857</data>
+    </edge>
+    <edge source="CASP3" target="BCL2L1">
+      <data key="d0">0.95</data>
+    </edge>
+    <edge source="CASP3" target="BCL2">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="CASP3" target="XIAP">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CASP3" target="MMP2">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="CASP3" target="MAPK3">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="CASP3" target="IL1B">
+      <data key="d0">0.899</data>
+    </edge>
+    <edge source="CASP3" target="FOS">
+      <data key="d0">0.749</data>
+    </edge>
+    <edge source="CASP3" target="CXCL8">
+      <data key="d0">0.752</data>
+    </edge>
+    <edge source="CASP3" target="EIF2AK3">
+      <data key="d0">0.776</data>
+    </edge>
+    <edge source="CASP3" target="DDIT3">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="CASP3" target="STAT1">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="CASP3" target="BID">
+      <data key="d0">0.827</data>
+    </edge>
+    <edge source="CASP3" target="PTGS2">
+      <data key="d0">0.865</data>
+    </edge>
+    <edge source="CASP3" target="IL6">
+      <data key="d0">0.881</data>
+    </edge>
+    <edge source="CASP3" target="MYC">
+      <data key="d0">0.881</data>
+    </edge>
+    <edge source="CASP3" target="CDKN1A">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="CASP3" target="PARP1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BCL2" target="CCND1">
+      <data key="d0">0.958</data>
+    </edge>
+    <edge source="BCL2" target="KRAS">
+      <data key="d0">0.862</data>
+    </edge>
+    <edge source="BCL2" target="CDK4">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="BCL2" target="STAT3">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="BCL2" target="ERBB2">
+      <data key="d0">0.849</data>
+    </edge>
+    <edge source="BCL2" target="EGFR">
+      <data key="d0">0.839</data>
+    </edge>
+    <edge source="BCL2" target="TNFRSF10B">
+      <data key="d0">0.739</data>
+    </edge>
+    <edge source="BCL2" target="BAX">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BCL2" target="CD34">
+      <data key="d0">0.945</data>
+    </edge>
+    <edge source="BCL2" target="MTOR">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="BCL2" target="XIAP">
+      <data key="d0">0.951</data>
+    </edge>
+    <edge source="BCL2" target="PTEN">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="BCL2" target="BCL2L1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BCL2" target="IGF1">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="BCL2" target="CXCL12">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="BCL2" target="PECAM1">
+      <data key="d0">0.752</data>
+    </edge>
+    <edge source="BCL2" target="HIF1A">
+      <data key="d0">0.946</data>
+    </edge>
+    <edge source="BCL2" target="MMP2">
+      <data key="d0">0.716</data>
+    </edge>
+    <edge source="BCL2" target="MAPK3">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="BCL2" target="IL1B">
+      <data key="d0">0.808</data>
+    </edge>
+    <edge source="BCL2" target="STAT6">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="BCL2" target="FOS">
+      <data key="d0">0.784</data>
+    </edge>
+    <edge source="BCL2" target="EIF2AK3">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="BCL2" target="BID">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="BCL2" target="E2F1">
+      <data key="d0">0.778</data>
+    </edge>
+    <edge source="BCL2" target="FN1">
+      <data key="d0">0.785</data>
+    </edge>
+    <edge source="BCL2" target="PARP1">
+      <data key="d0">0.917</data>
+    </edge>
+    <edge source="BCL2" target="PTGS2">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="BCL2" target="SRC">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="BCL2" target="BAK1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BCL2" target="BRAF">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="BCL2" target="CDKN1A">
+      <data key="d0">0.82</data>
+    </edge>
+    <edge source="BCL2" target="IL6">
+      <data key="d0">0.868</data>
+    </edge>
+    <edge source="BCL2" target="ESR1">
+      <data key="d0">0.897</data>
+    </edge>
+    <edge source="BCL2" target="CREB1">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="BCL2" target="MYC">
+      <data key="d0">0.955</data>
+    </edge>
+    <edge source="BCL2" target="DDIT3">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="BCL2" target="NFKB1">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="BCL2" target="IL2">
+      <data key="d0">0.758</data>
+    </edge>
+    <edge source="BCL2" target="CCND2">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="BCL2" target="PMAIP1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BCL2" target="HSP90AA1">
+      <data key="d0">0.929</data>
+    </edge>
+    <edge source="BCL2" target="FOXP3">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="BCL2" target="FOXO1">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="BCL2" target="CD99">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="BCL2" target="JAK2">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="BCL2" target="MAPK8">
+      <data key="d0">0.979</data>
+    </edge>
+    <edge source="BCL2" target="TNF">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="BCL2" target="RELA">
+      <data key="d0">0.898</data>
+    </edge>
+    <edge source="BCL2" target="HRAS">
+      <data key="d0">0.938</data>
+    </edge>
+    <edge source="HIF1A" target="CCND1">
+      <data key="d0">0.876</data>
+    </edge>
+    <edge source="HIF1A" target="KDR">
+      <data key="d0">0.785</data>
+    </edge>
+    <edge source="HIF1A" target="STAT3">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="HIF1A" target="EGFR">
+      <data key="d0">0.934</data>
+    </edge>
+    <edge source="HIF1A" target="FLT1">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="HIF1A" target="PDGFB">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="HIF1A" target="MTOR">
+      <data key="d0">0.789</data>
+    </edge>
+    <edge source="HIF1A" target="PTEN">
+      <data key="d0">0.83</data>
+    </edge>
+    <edge source="HIF1A" target="CXCL12">
+      <data key="d0">0.824</data>
+    </edge>
+    <edge source="HIF1A" target="SLC2A1">
+      <data key="d0">0.902</data>
+    </edge>
+    <edge source="HIF1A" target="PECAM1">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="KRAS" target="HGF">
+      <data key="d0">0.852</data>
+    </edge>
+    <edge source="KRAS" target="CCND1">
+      <data key="d0">0.835</data>
+    </edge>
+    <edge source="KRAS" target="CDK4">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="KRAS" target="AREG">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="KRAS" target="CD274">
+      <data key="d0">0.774</data>
+    </edge>
+    <edge source="KRAS" target="KDR">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="KRAS" target="STAT3">
+      <data key="d0">0.817</data>
+    </edge>
+    <edge source="KRAS" target="MTOR">
+      <data key="d0">0.826</data>
+    </edge>
+    <edge source="KRAS" target="PTEN">
+      <data key="d0">0.936</data>
+    </edge>
+    <edge source="KRAS" target="PIK3R3">
+      <data key="d0">0.952</data>
+    </edge>
+    <edge source="KRAS" target="PDGFRB">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="KRAS" target="PIK3R1">
+      <data key="d0">0.963</data>
+    </edge>
+    <edge source="KRAS" target="ERBB2">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="KRAS" target="MET">
+      <data key="d0">0.979</data>
+    </edge>
+    <edge source="KRAS" target="FGFR1">
+      <data key="d0">0.981</data>
+    </edge>
+    <edge source="KRAS" target="BCL2L1">
+      <data key="d0">0.982</data>
+    </edge>
+    <edge source="KRAS" target="RASSF1">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="KRAS" target="ALK">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="KRAS" target="EGFR">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="STAT3" target="HGF">
+      <data key="d0">0.829</data>
+    </edge>
+    <edge source="STAT3" target="CCND1">
+      <data key="d0">0.98</data>
+    </edge>
+    <edge source="STAT3" target="PDGFRB">
+      <data key="d0">0.915</data>
+    </edge>
+    <edge source="STAT3" target="PDGFB">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="STAT3" target="PDGFA">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="STAT3" target="FLT1">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="STAT3" target="IFNB1">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="STAT3" target="PTEN">
+      <data key="d0">0.794</data>
+    </edge>
+    <edge source="STAT3" target="BIRC5">
+      <data key="d0">0.796</data>
+    </edge>
+    <edge source="STAT3" target="CD44">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="STAT3" target="IGF1">
+      <data key="d0">0.845</data>
+    </edge>
+    <edge source="STAT3" target="ALK">
+      <data key="d0">0.893</data>
+    </edge>
+    <edge source="STAT3" target="PIK3R1">
+      <data key="d0">0.918</data>
+    </edge>
+    <edge source="STAT3" target="MTOR">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="STAT3" target="ERBB2">
+      <data key="d0">0.948</data>
+    </edge>
+    <edge source="STAT3" target="BCL2L1">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="STAT3" target="MET">
+      <data key="d0">0.981</data>
+    </edge>
+    <edge source="STAT3" target="CD274">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="STAT3" target="EGFR">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="STAT3" target="MMP2">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="STAT3" target="CSF3">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="STAT3" target="CCL2">
+      <data key="d0">0.867</data>
+    </edge>
+    <edge source="STAT3" target="GLI1">
+      <data key="d0">0.859</data>
+    </edge>
+    <edge source="STAT3" target="PDGFRA">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="STAT3" target="MAPK3">
+      <data key="d0">0.87</data>
+    </edge>
+    <edge source="STAT3" target="IL1B">
+      <data key="d0">0.938</data>
+    </edge>
+    <edge source="STAT3" target="TGFA">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="STAT3" target="KITLG">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="STAT3" target="BRAF">
+      <data key="d0">0.773</data>
+    </edge>
+    <edge source="STAT3" target="CSF1R">
+      <data key="d0">0.795</data>
+    </edge>
+    <edge source="STAT3" target="E2F1">
+      <data key="d0">0.797</data>
+    </edge>
+    <edge source="STAT3" target="ABCB1">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="STAT3" target="EIF2AK3">
+      <data key="d0">0.807</data>
+    </edge>
+    <edge source="STAT3" target="FGFR2">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="STAT3" target="CXCL8">
+      <data key="d0">0.857</data>
+    </edge>
+    <edge source="STAT3" target="FOXM1">
+      <data key="d0">0.893</data>
+    </edge>
+    <edge source="STAT3" target="STAT6">
+      <data key="d0">0.899</data>
+    </edge>
+    <edge source="STAT3" target="ERBB3">
+      <data key="d0">0.905</data>
+    </edge>
+    <edge source="STAT3" target="SP1">
+      <data key="d0">0.923</data>
+    </edge>
+    <edge source="STAT3" target="CREB1">
+      <data key="d0">0.924</data>
+    </edge>
+    <edge source="STAT3" target="PTK2">
+      <data key="d0">0.928</data>
+    </edge>
+    <edge source="STAT3" target="PTGS2">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="STAT3" target="ESR1">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="STAT3" target="STMN1">
+      <data key="d0">0.954</data>
+    </edge>
+    <edge source="STAT3" target="CDKN1A">
+      <data key="d0">0.984</data>
+    </edge>
+    <edge source="STAT3" target="IL6">
+      <data key="d0">0.984</data>
+    </edge>
+    <edge source="STAT3" target="MYC">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="STAT3" target="FN1">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="STAT3" target="FOS">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="STAT3" target="STAT1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="STAT3" target="SRC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="STAT3" target="NFKB1">
+      <data key="d0">0.962</data>
+    </edge>
+    <edge source="STAT3" target="IL2">
+      <data key="d0">0.828</data>
+    </edge>
+    <edge source="STAT3" target="IL1A">
+      <data key="d0">0.861</data>
+    </edge>
+    <edge source="STAT3" target="CD86">
+      <data key="d0">0.806</data>
+    </edge>
+    <edge source="STAT3" target="CXCL10">
+      <data key="d0">0.82</data>
+    </edge>
+    <edge source="STAT3" target="IL9">
+      <data key="d0">0.855</data>
+    </edge>
+    <edge source="STAT3" target="MMP3">
+      <data key="d0">0.892</data>
+    </edge>
+    <edge source="STAT3" target="MAPK8">
+      <data key="d0">0.9</data>
+    </edge>
+    <edge source="STAT3" target="TNF">
+      <data key="d0">0.939</data>
+    </edge>
+    <edge source="STAT3" target="DNMT1">
+      <data key="d0">0.957</data>
+    </edge>
+    <edge source="STAT3" target="FOXO1">
+      <data key="d0">0.964</data>
+    </edge>
+    <edge source="STAT3" target="HSP90AA1">
+      <data key="d0">0.971</data>
+    </edge>
+    <edge source="STAT3" target="FOXP3">
+      <data key="d0">0.984</data>
+    </edge>
+    <edge source="STAT3" target="RELA">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="STAT3" target="JAK2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PECAM1" target="PDGFRB">
+      <data key="d0">0.785</data>
+    </edge>
+    <edge source="PECAM1" target="FLT4">
+      <data key="d0">0.94</data>
+    </edge>
+    <edge source="PECAM1" target="KDR">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PECAM1" target="FLT1">
+      <data key="d0">0.824</data>
+    </edge>
+    <edge source="PECAM1" target="CD34">
+      <data key="d0">0.94</data>
+    </edge>
+    <edge source="PECAM1" target="CXCL12">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="PECAM1" target="CD44">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="SPP1" target="EGFR">
+      <data key="d0">0.812</data>
+    </edge>
+    <edge source="SPP1" target="PIK3R1">
+      <data key="d0">0.773</data>
+    </edge>
+    <edge source="SPP1" target="PGF">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="SPP1" target="CD44">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="FLT1" target="HGF">
+      <data key="d0">0.908</data>
+    </edge>
+    <edge source="FLT1" target="FLT4">
+      <data key="d0">0.92</data>
+    </edge>
+    <edge source="FLT1" target="PIK3R3">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="FLT1" target="KDR">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="FLT1" target="SHC2">
+      <data key="d0">0.844</data>
+    </edge>
+    <edge source="FLT1" target="SHC4">
+      <data key="d0">0.705</data>
+    </edge>
+    <edge source="FLT1" target="AREG">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="FLT1" target="CD34">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="FLT1" target="CXCL12">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="FLT1" target="PDGFA">
+      <data key="d0">0.876</data>
+    </edge>
+    <edge source="FLT1" target="PDGFD">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="FLT1" target="IGF1">
+      <data key="d0">0.899</data>
+    </edge>
+    <edge source="FLT1" target="PIK3R1">
+      <data key="d0">0.909</data>
+    </edge>
+    <edge source="FLT1" target="PDGFB">
+      <data key="d0">0.911</data>
+    </edge>
+    <edge source="FLT1" target="PDGFC">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="FLT1" target="PGF">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="FLT1" target="MMP2">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="FLT1" target="CCL2">
+      <data key="d0">0.791</data>
+    </edge>
+    <edge source="FLT1" target="TGFA">
+      <data key="d0">0.803</data>
+    </edge>
+    <edge source="FLT1" target="IGF2">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="FLT1" target="CXCL8">
+      <data key="d0">0.851</data>
+    </edge>
+    <edge source="FLT1" target="KITLG">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="FLT1" target="FGF1">
+      <data key="d0">0.944</data>
+    </edge>
+    <edge source="FLT1" target="PTK2">
+      <data key="d0">0.948</data>
+    </edge>
+    <edge source="FLT1" target="ANGPT1">
+      <data key="d0">0.984</data>
+    </edge>
+    <edge source="FLT1" target="VEGFC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="KDR" target="HGF">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="KDR" target="PDGFRB">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="KDR" target="FLT4">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="KDR" target="PIK3R3">
+      <data key="d0">0.922</data>
+    </edge>
+    <edge source="KDR" target="AREG">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="KDR" target="EGFR">
+      <data key="d0">0.805</data>
+    </edge>
+    <edge source="KDR" target="PDGFD">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="KDR" target="MET">
+      <data key="d0">0.851</data>
+    </edge>
+    <edge source="KDR" target="CXCL12">
+      <data key="d0">0.893</data>
+    </edge>
+    <edge source="KDR" target="PDGFA">
+      <data key="d0">0.898</data>
+    </edge>
+    <edge source="KDR" target="CD34">
+      <data key="d0">0.906</data>
+    </edge>
+    <edge source="KDR" target="SHC4">
+      <data key="d0">0.912</data>
+    </edge>
+    <edge source="KDR" target="IGF1">
+      <data key="d0">0.914</data>
+    </edge>
+    <edge source="KDR" target="PDGFB">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="KDR" target="PIK3R1">
+      <data key="d0">0.943</data>
+    </edge>
+    <edge source="KDR" target="SHC2">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="KDR" target="PDGFC">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="KDR" target="PGF">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="KDR" target="CCL2">
+      <data key="d0">0.758</data>
+    </edge>
+    <edge source="KDR" target="MYC">
+      <data key="d0">0.723</data>
+    </edge>
+    <edge source="KDR" target="CXCL8">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="KDR" target="FN1">
+      <data key="d0">0.793</data>
+    </edge>
+    <edge source="KDR" target="TGFA">
+      <data key="d0">0.824</data>
+    </edge>
+    <edge source="KDR" target="IGF2">
+      <data key="d0">0.862</data>
+    </edge>
+    <edge source="KDR" target="FGF1">
+      <data key="d0">0.919</data>
+    </edge>
+    <edge source="KDR" target="KITLG">
+      <data key="d0">0.934</data>
+    </edge>
+    <edge source="KDR" target="PTK2">
+      <data key="d0">0.958</data>
+    </edge>
+    <edge source="KDR" target="ANGPT1">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="KDR" target="SRC">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="KDR" target="VEGFC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="MET" target="HGF">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="MET" target="PIK3R3">
+      <data key="d0">0.844</data>
+    </edge>
+    <edge source="MET" target="SHC2">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="MET" target="ERBB2">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="MET" target="EGFR">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="MET" target="PDGFD">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="MET" target="CD274">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="MET" target="PTEN">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="MET" target="PDGFC">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="MET" target="PGF">
+      <data key="d0">0.779</data>
+    </edge>
+    <edge source="MET" target="AREG">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="MET" target="PDGFA">
+      <data key="d0">0.836</data>
+    </edge>
+    <edge source="MET" target="PDGFB">
+      <data key="d0">0.849</data>
+    </edge>
+    <edge source="MET" target="PIK3R1">
+      <data key="d0">0.872</data>
+    </edge>
+    <edge source="MET" target="CXCL12">
+      <data key="d0">0.902</data>
+    </edge>
+    <edge source="MET" target="IGF1">
+      <data key="d0">0.908</data>
+    </edge>
+    <edge source="MET" target="SHC4">
+      <data key="d0">0.92</data>
+    </edge>
+    <edge source="MET" target="CD44">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="MET" target="MMP2">
+      <data key="d0">0.703</data>
+    </edge>
+    <edge source="MET" target="EPCAM">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="MET" target="ERBB3">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="MET" target="PARP1">
+      <data key="d0">0.701</data>
+    </edge>
+    <edge source="MET" target="FN1">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="MET" target="FGF1">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="MET" target="ANGPT1">
+      <data key="d0">0.77</data>
+    </edge>
+    <edge source="MET" target="IGF2">
+      <data key="d0">0.788</data>
+    </edge>
+    <edge source="MET" target="VEGFC">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="MET" target="TGFA">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="MET" target="IL6">
+      <data key="d0">0.856</data>
+    </edge>
+    <edge source="MET" target="KITLG">
+      <data key="d0">0.895</data>
+    </edge>
+    <edge source="MET" target="PTK2">
+      <data key="d0">0.935</data>
+    </edge>
+    <edge source="MET" target="SRC">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="PDGFB" target="PDGFRB">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PDGFB" target="FLT4">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="PDGFB" target="ERBB2">
+      <data key="d0">0.771</data>
+    </edge>
+    <edge source="PDGFB" target="EGFR">
+      <data key="d0">0.968</data>
+    </edge>
+    <edge source="PDGFB" target="FGFR1">
+      <data key="d0">0.79</data>
+    </edge>
+    <edge source="PDGFB" target="IGF1">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="PDGFB" target="PDGFD">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="PDGFB" target="PDGFC">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="PDGFB" target="PDGFA">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CD44" target="HGF">
+      <data key="d0">0.964</data>
+    </edge>
+    <edge source="CD44" target="PDGFRB">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="CD44" target="ERBB2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CD44" target="EGFR">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="CD44" target="CD34">
+      <data key="d0">0.912</data>
+    </edge>
+    <edge source="CD44" target="NF2">
+      <data key="d0">0.979</data>
+    </edge>
+    <edge source="CD44" target="PTEN">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="CD44" target="IGF1">
+      <data key="d0">0.719</data>
+    </edge>
+    <edge source="CD44" target="CXCL12">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="CD44" target="FGFR1">
+      <data key="d0">0.848</data>
+    </edge>
+    <edge source="CD44" target="MMP2">
+      <data key="d0">0.971</data>
+    </edge>
+    <edge source="CD44" target="CCL2">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="CD44" target="MAPK3">
+      <data key="d0">0.751</data>
+    </edge>
+    <edge source="CD44" target="IL1B">
+      <data key="d0">0.707</data>
+    </edge>
+    <edge source="CD44" target="EPCAM">
+      <data key="d0">0.971</data>
+    </edge>
+    <edge source="CD44" target="CXCL8">
+      <data key="d0">0.751</data>
+    </edge>
+    <edge source="CD44" target="MMP14">
+      <data key="d0">0.919</data>
+    </edge>
+    <edge source="CD44" target="PLAUR">
+      <data key="d0">0.703</data>
+    </edge>
+    <edge source="CD44" target="FN1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CD44" target="STAT1">
+      <data key="d0">0.842</data>
+    </edge>
+    <edge source="CD44" target="SRC">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="CD44" target="SDC1">
+      <data key="d0">0.927</data>
+    </edge>
+    <edge source="CD44" target="IL6">
+      <data key="d0">0.821</data>
+    </edge>
+    <edge source="CD44" target="FGFR2">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="CD44" target="KITLG">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="CD44" target="ABCG2">
+      <data key="d0">0.736</data>
+    </edge>
+    <edge source="CD44" target="ESR1">
+      <data key="d0">0.769</data>
+    </edge>
+    <edge source="CD44" target="MYC">
+      <data key="d0">0.772</data>
+    </edge>
+    <edge source="CD274" target="ERBB2">
+      <data key="d0">0.798</data>
+    </edge>
+    <edge source="CD274" target="EGFR">
+      <data key="d0">0.87</data>
+    </edge>
+    <edge source="CD274" target="PDCD1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CD274" target="MTOR">
+      <data key="d0">0.711</data>
+    </edge>
+    <edge source="CD274" target="PTEN">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="CD274" target="CXCL12">
+      <data key="d0">0.757</data>
+    </edge>
+    <edge source="CD274" target="ALK">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="CD34" target="PDGFRB">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="CD34" target="BAX">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="CD34" target="CXCL12">
+      <data key="d0">0.856</data>
+    </edge>
+    <edge source="ALK" target="PIK3R3">
+      <data key="d0">0.914</data>
+    </edge>
+    <edge source="ALK" target="TNFRSF8">
+      <data key="d0">0.835</data>
+    </edge>
+    <edge source="ALK" target="ERBB2">
+      <data key="d0">0.775</data>
+    </edge>
+    <edge source="ALK" target="PTEN">
+      <data key="d0">0.722</data>
+    </edge>
+    <edge source="ALK" target="PIK3R1">
+      <data key="d0">0.973</data>
+    </edge>
+    <edge source="CXCL12" target="HGF">
+      <data key="d0">0.751</data>
+    </edge>
+    <edge source="CXCL12" target="CCND1">
+      <data key="d0">0.769</data>
+    </edge>
+    <edge source="CXCL12" target="PDGFRB">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="CXCL12" target="EGFR">
+      <data key="d0">0.897</data>
+    </edge>
+    <edge source="CXCL12" target="IGF1">
+      <data key="d0">0.845</data>
+    </edge>
+    <edge source="CXCL12" target="PGF">
+      <data key="d0">0.711</data>
+    </edge>
+    <edge source="CXCL12" target="MMP2">
+      <data key="d0">0.762</data>
+    </edge>
+    <edge source="CXCL12" target="CSF3">
+      <data key="d0">0.786</data>
+    </edge>
+    <edge source="CXCL12" target="CCL2">
+      <data key="d0">0.841</data>
+    </edge>
+    <edge source="CXCL12" target="PDGFRA">
+      <data key="d0">0.806</data>
+    </edge>
+    <edge source="CXCL12" target="IL1B">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="CXCL12" target="CSF1R">
+      <data key="d0">0.879</data>
+    </edge>
+    <edge source="CXCL12" target="CXCL8">
+      <data key="d0">0.951</data>
+    </edge>
+    <edge source="CXCL12" target="FN1">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="CXCL12" target="SRC">
+      <data key="d0">0.789</data>
+    </edge>
+    <edge source="CXCL12" target="SDC1">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="CXCL12" target="ANGPT1">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="CXCL12" target="IL6">
+      <data key="d0">0.811</data>
+    </edge>
+    <edge source="CXCL12" target="KITLG">
+      <data key="d0">0.839</data>
+    </edge>
+    <edge source="CXCL12" target="ESR1">
+      <data key="d0">0.879</data>
+    </edge>
+    <edge source="PDGFRB" target="HGF">
+      <data key="d0">0.855</data>
+    </edge>
+    <edge source="PDGFRB" target="IFNB1">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="PDGFRB" target="AREG">
+      <data key="d0">0.758</data>
+    </edge>
+    <edge source="PDGFRB" target="ERBB2">
+      <data key="d0">0.874</data>
+    </edge>
+    <edge source="PDGFRB" target="PGF">
+      <data key="d0">0.905</data>
+    </edge>
+    <edge source="PDGFRB" target="SHC4">
+      <data key="d0">0.913</data>
+    </edge>
+    <edge source="PDGFRB" target="SHC2">
+      <data key="d0">0.919</data>
+    </edge>
+    <edge source="PDGFRB" target="IGF1">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="PDGFRB" target="PTEN">
+      <data key="d0">0.95</data>
+    </edge>
+    <edge source="PDGFRB" target="PIK3R3">
+      <data key="d0">0.955</data>
+    </edge>
+    <edge source="PDGFRB" target="EGFR">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="PDGFRB" target="PDGFA">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PDGFRB" target="PIK3R1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PDGFRB" target="PDGFD">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PDGFRB" target="PDGFC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PDGFRB" target="CSF3">
+      <data key="d0">0.758</data>
+    </edge>
+    <edge source="PDGFRB" target="PDGFRA">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="PDGFRB" target="FN1">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="PDGFRB" target="STAT1">
+      <data key="d0">0.816</data>
+    </edge>
+    <edge source="PDGFRB" target="IGF2">
+      <data key="d0">0.835</data>
+    </edge>
+    <edge source="PDGFRB" target="FGF1">
+      <data key="d0">0.842</data>
+    </edge>
+    <edge source="PDGFRB" target="TGFA">
+      <data key="d0">0.865</data>
+    </edge>
+    <edge source="PDGFRB" target="VEGFC">
+      <data key="d0">0.892</data>
+    </edge>
+    <edge source="PDGFRB" target="IL6">
+      <data key="d0">0.894</data>
+    </edge>
+    <edge source="PDGFRB" target="ANGPT1">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="PDGFRB" target="PTK2">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="PDGFRB" target="KITLG">
+      <data key="d0">0.951</data>
+    </edge>
+    <edge source="PDGFRB" target="SRC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="HGF" target="PGF">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="HGF" target="FGFR1">
+      <data key="d0">0.814</data>
+    </edge>
+    <edge source="HGF" target="IGF1">
+      <data key="d0">0.869</data>
+    </edge>
+    <edge source="HGF" target="FLT4">
+      <data key="d0">0.886</data>
+    </edge>
+    <edge source="HGF" target="ERBB2">
+      <data key="d0">0.918</data>
+    </edge>
+    <edge source="HGF" target="EGFR">
+      <data key="d0">0.98</data>
+    </edge>
+    <edge source="HGF" target="MMP2">
+      <data key="d0">0.76</data>
+    </edge>
+    <edge source="HGF" target="TGFA">
+      <data key="d0">0.701</data>
+    </edge>
+    <edge source="HGF" target="CXCL8">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="HGF" target="VEGFC">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="HGF" target="KITLG">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="HGF" target="CSF1R">
+      <data key="d0">0.774</data>
+    </edge>
+    <edge source="HGF" target="FGF1">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="HGF" target="PDGFRA">
+      <data key="d0">0.841</data>
+    </edge>
+    <edge source="HGF" target="IL6">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="HGF" target="SRC">
+      <data key="d0">0.867</data>
+    </edge>
+    <edge source="HGF" target="SDC1">
+      <data key="d0">0.901</data>
+    </edge>
+    <edge source="HGF" target="FGFR2">
+      <data key="d0">0.906</data>
+    </edge>
+    <edge source="HGF" target="ERBB3">
+      <data key="d0">0.952</data>
+    </edge>
+    <edge source="HGF" target="FN1">
+      <data key="d0">0.967</data>
+    </edge>
+    <edge source="EGFR" target="CCND1">
+      <data key="d0">0.841</data>
+    </edge>
+    <edge source="EGFR" target="KRT5">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="EGFR" target="PIK3R3">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="EGFR" target="SHC2">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="EGFR" target="ERBB2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EGFR" target="SLC2A1">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="EGFR" target="PDCD1">
+      <data key="d0">0.705</data>
+    </edge>
+    <edge source="EGFR" target="MSLN">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="EGFR" target="FOLR1">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="EGFR" target="TXN">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="EGFR" target="PGF">
+      <data key="d0">0.797</data>
+    </edge>
+    <edge source="EGFR" target="MTOR">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="EGFR" target="NF2">
+      <data key="d0">0.844</data>
+    </edge>
+    <edge source="EGFR" target="BCL2L1">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="EGFR" target="IFNB1">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="EGFR" target="EFEMP1">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="EGFR" target="PDGFD">
+      <data key="d0">0.932</data>
+    </edge>
+    <edge source="EGFR" target="PDGFC">
+      <data key="d0">0.961</data>
+    </edge>
+    <edge source="EGFR" target="PDGFA">
+      <data key="d0">0.964</data>
+    </edge>
+    <edge source="EGFR" target="PTEN">
+      <data key="d0">0.969</data>
+    </edge>
+    <edge source="EGFR" target="SHC4">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="EGFR" target="IGF1">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="EGFR" target="PIK3R1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="EGFR" target="AREG">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EGFR" target="CSF3">
+      <data key="d0">0.857</data>
+    </edge>
+    <edge source="EGFR" target="CCL2">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="EGFR" target="PDGFRA">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="EGFR" target="IL1B">
+      <data key="d0">0.873</data>
+    </edge>
+    <edge source="EGFR" target="EPCAM">
+      <data key="d0">0.923</data>
+    </edge>
+    <edge source="EGFR" target="ERBB3">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EGFR" target="E2F1">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="EGFR" target="PARP1">
+      <data key="d0">0.751</data>
+    </edge>
+    <edge source="EGFR" target="CDKN1A">
+      <data key="d0">0.752</data>
+    </edge>
+    <edge source="EGFR" target="MMP14">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="EGFR" target="CXCL8">
+      <data key="d0">0.792</data>
+    </edge>
+    <edge source="EGFR" target="AXL">
+      <data key="d0">0.792</data>
+    </edge>
+    <edge source="EGFR" target="CCN2">
+      <data key="d0">0.799</data>
+    </edge>
+    <edge source="EGFR" target="CTNNA1">
+      <data key="d0">0.826</data>
+    </edge>
+    <edge source="EGFR" target="PTGS2">
+      <data key="d0">0.836</data>
+    </edge>
+    <edge source="EGFR" target="VEGFC">
+      <data key="d0">0.837</data>
+    </edge>
+    <edge source="EGFR" target="ANGPT1">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="EGFR" target="IGF2">
+      <data key="d0">0.854</data>
+    </edge>
+    <edge source="EGFR" target="MYC">
+      <data key="d0">0.875</data>
+    </edge>
+    <edge source="EGFR" target="MUC4">
+      <data key="d0">0.875</data>
+    </edge>
+    <edge source="EGFR" target="FGF1">
+      <data key="d0">0.887</data>
+    </edge>
+    <edge source="EGFR" target="PLAUR">
+      <data key="d0">0.896</data>
+    </edge>
+    <edge source="EGFR" target="FOS">
+      <data key="d0">0.94</data>
+    </edge>
+    <edge source="EGFR" target="FN1">
+      <data key="d0">0.944</data>
+    </edge>
+    <edge source="EGFR" target="KITLG">
+      <data key="d0">0.95</data>
+    </edge>
+    <edge source="EGFR" target="STAT1">
+      <data key="d0">0.975</data>
+    </edge>
+    <edge source="EGFR" target="IL6">
+      <data key="d0">0.979</data>
+    </edge>
+    <edge source="EGFR" target="ESR1">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="EGFR" target="TGFA">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EGFR" target="SRC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EGFR" target="PTK2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="IGF1" target="FLT4">
+      <data key="d0">0.778</data>
+    </edge>
+    <edge source="IGF1" target="ERBB2">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="IGF1" target="PDGFA">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="IGF1" target="MTOR">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="IGF1" target="PTEN">
+      <data key="d0">0.795</data>
+    </edge>
+    <edge source="IGF1" target="BCL2L1">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="IGF1" target="FGFR1">
+      <data key="d0">0.82</data>
+    </edge>
+    <edge source="IGF1" target="PDGFD">
+      <data key="d0">0.931</data>
+    </edge>
+    <edge source="IGF1" target="PDGFC">
+      <data key="d0">0.956</data>
+    </edge>
+    <edge source="KRT5" target="ERBB2">
+      <data key="d0">0.796</data>
+    </edge>
+    <edge source="KRT5" target="TP63">
+      <data key="d0">0.861</data>
+    </edge>
+    <edge source="ERBB2" target="CCND1">
+      <data key="d0">0.904</data>
+    </edge>
+    <edge source="ERBB2" target="FLT4">
+      <data key="d0">0.722</data>
+    </edge>
+    <edge source="ERBB2" target="PIK3R3">
+      <data key="d0">0.975</data>
+    </edge>
+    <edge source="ERBB2" target="TNFRSF8">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="ERBB2" target="SHC2">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="ERBB2" target="BIRC5">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="ERBB2" target="MTOR">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="ERBB2" target="PDGFD">
+      <data key="d0">0.726</data>
+    </edge>
+    <edge source="ERBB2" target="PDGFC">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="ERBB2" target="NF2">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="ERBB2" target="FGFR1">
+      <data key="d0">0.737</data>
+    </edge>
+    <edge source="ERBB2" target="PDGFA">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="ERBB2" target="BCL2L1">
+      <data key="d0">0.767</data>
+    </edge>
+    <edge source="ERBB2" target="PGF">
+      <data key="d0">0.77</data>
+    </edge>
+    <edge source="ERBB2" target="PTEN">
+      <data key="d0">0.868</data>
+    </edge>
+    <edge source="ERBB2" target="SHC4">
+      <data key="d0">0.946</data>
+    </edge>
+    <edge source="ERBB2" target="AREG">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="ERBB2" target="PIK3R1">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="ERBB2" target="MMP2">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="ERBB2" target="PDGFRA">
+      <data key="d0">0.768</data>
+    </edge>
+    <edge source="ERBB2" target="EPCAM">
+      <data key="d0">0.927</data>
+    </edge>
+    <edge source="ERBB2" target="ERBB3">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="ERBB2" target="FN1">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="ERBB2" target="ANGPT1">
+      <data key="d0">0.736</data>
+    </edge>
+    <edge source="ERBB2" target="ABCG2">
+      <data key="d0">0.74</data>
+    </edge>
+    <edge source="ERBB2" target="PARP1">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="ERBB2" target="FGFR2">
+      <data key="d0">0.744</data>
+    </edge>
+    <edge source="ERBB2" target="IL6">
+      <data key="d0">0.752</data>
+    </edge>
+    <edge source="ERBB2" target="AXL">
+      <data key="d0">0.763</data>
+    </edge>
+    <edge source="ERBB2" target="FGF1">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="ERBB2" target="VEGFC">
+      <data key="d0">0.808</data>
+    </edge>
+    <edge source="ERBB2" target="SDC1">
+      <data key="d0">0.811</data>
+    </edge>
+    <edge source="ERBB2" target="KITLG">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="ERBB2" target="IGF2">
+      <data key="d0">0.819</data>
+    </edge>
+    <edge source="ERBB2" target="STAT1">
+      <data key="d0">0.821</data>
+    </edge>
+    <edge source="ERBB2" target="PTGS2">
+      <data key="d0">0.828</data>
+    </edge>
+    <edge source="ERBB2" target="MYC">
+      <data key="d0">0.886</data>
+    </edge>
+    <edge source="ERBB2" target="ESR1">
+      <data key="d0">0.976</data>
+    </edge>
+    <edge source="ERBB2" target="PTK2">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="ERBB2" target="MUC4">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="ERBB2" target="TGFA">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="ERBB2" target="SRC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="ERBB2" target="NFKB1">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="ERBB2" target="HRAS">
+      <data key="d0">0.907</data>
+    </edge>
+    <edge source="ERBB2" target="JAK2">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="ERBB2" target="HSP90AA1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="MSLN" target="FOLR1">
+      <data key="d0">0.706</data>
+    </edge>
+    <edge source="MSLN" target="MUC16">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="PGF" target="FLT4">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="PGF" target="FGFR1">
+      <data key="d0">0.819</data>
+    </edge>
+    <edge source="PGF" target="PDGFC">
+      <data key="d0">0.876</data>
+    </edge>
+    <edge source="PGF" target="PDGFRA">
+      <data key="d0">0.848</data>
+    </edge>
+    <edge source="PGF" target="ERBB3">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="PGF" target="CSF1R">
+      <data key="d0">0.851</data>
+    </edge>
+    <edge source="PGF" target="CXCL8">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="PGF" target="FN1">
+      <data key="d0">0.943</data>
+    </edge>
+    <edge source="PGF" target="FGFR2">
+      <data key="d0">0.801</data>
+    </edge>
+    <edge source="PGF" target="ANGPT1">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="PGF" target="VEGFC">
+      <data key="d0">0.77</data>
+    </edge>
+    <edge source="FGFR1" target="PIK3R3">
+      <data key="d0">0.923</data>
+    </edge>
+    <edge source="FGFR1" target="SHC2">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="FGFR1" target="SHC4">
+      <data key="d0">0.91</data>
+    </edge>
+    <edge source="FGFR1" target="PDGFA">
+      <data key="d0">0.868</data>
+    </edge>
+    <edge source="FGFR1" target="PDGFD">
+      <data key="d0">0.833</data>
+    </edge>
+    <edge source="FGFR1" target="AREG">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="FGFR1" target="PDGFC">
+      <data key="d0">0.756</data>
+    </edge>
+    <edge source="FGFR1" target="PIK3R1">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="FLT4" target="SHC2">
+      <data key="d0">0.708</data>
+    </edge>
+    <edge source="FLT4" target="PIK3R3">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="FLT4" target="AREG">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="FLT4" target="PDGFD">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="FLT4" target="SHC4">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="FLT4" target="PDGFA">
+      <data key="d0">0.852</data>
+    </edge>
+    <edge source="FLT4" target="PIK3R1">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="FLT4" target="PDGFC">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="FLT4" target="SRC">
+      <data key="d0">0.708</data>
+    </edge>
+    <edge source="FLT4" target="IGF2">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="FLT4" target="TGFA">
+      <data key="d0">0.776</data>
+    </edge>
+    <edge source="FLT4" target="FGF1">
+      <data key="d0">0.807</data>
+    </edge>
+    <edge source="FLT4" target="KITLG">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="FLT4" target="ANGPT1">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="FLT4" target="PTK2">
+      <data key="d0">0.921</data>
+    </edge>
+    <edge source="FLT4" target="VEGFC">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CCND1" target="BIRC5">
+      <data key="d0">0.751</data>
+    </edge>
+    <edge source="CCND1" target="MTOR">
+      <data key="d0">0.802</data>
+    </edge>
+    <edge source="CCND1" target="BCL2L1">
+      <data key="d0">0.808</data>
+    </edge>
+    <edge source="CCND1" target="PTEN">
+      <data key="d0">0.855</data>
+    </edge>
+    <edge source="CCND1" target="RASSF1">
+      <data key="d0">0.945</data>
+    </edge>
+    <edge source="CCND1" target="CDKN2B">
+      <data key="d0">0.974</data>
+    </edge>
+    <edge source="CCND1" target="CDK4">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CCND1" target="MMP2">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="CCND1" target="STAT6">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="CCND1" target="PARP1">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="CCND1" target="FOXM1">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="CCND1" target="FN1">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="CCND1" target="MAPK3">
+      <data key="d0">0.744</data>
+    </edge>
+    <edge source="CCND1" target="IL6">
+      <data key="d0">0.763</data>
+    </edge>
+    <edge source="CCND1" target="SDC1">
+      <data key="d0">0.772</data>
+    </edge>
+    <edge source="CCND1" target="STAT1">
+      <data key="d0">0.783</data>
+    </edge>
+    <edge source="CCND1" target="BRAF">
+      <data key="d0">0.864</data>
+    </edge>
+    <edge source="CCND1" target="SRC">
+      <data key="d0">0.875</data>
+    </edge>
+    <edge source="CCND1" target="E2F1">
+      <data key="d0">0.938</data>
+    </edge>
+    <edge source="CCND1" target="FOS">
+      <data key="d0">0.942</data>
+    </edge>
+    <edge source="CCND1" target="CREB1">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="CCND1" target="MYC">
+      <data key="d0">0.969</data>
+    </edge>
+    <edge source="CCND1" target="ESR1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="CCND1" target="CDKN1A">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BIRC5" target="CDK4">
+      <data key="d0">0.857</data>
+    </edge>
+    <edge source="BIRC5" target="XIAP">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="MTOR" target="PIK3R3">
+      <data key="d0">0.937</data>
+    </edge>
+    <edge source="MTOR" target="BCL2L1">
+      <data key="d0">0.813</data>
+    </edge>
+    <edge source="MTOR" target="PTEN">
+      <data key="d0">0.942</data>
+    </edge>
+    <edge source="MTOR" target="PIK3R1">
+      <data key="d0">0.956</data>
+    </edge>
+    <edge source="BCL2L1" target="TNFRSF10B">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="BCL2L1" target="BAX">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="BCL2L1" target="XIAP">
+      <data key="d0">0.939</data>
+    </edge>
+    <edge source="PTEN" target="CDK4">
+      <data key="d0">0.865</data>
+    </edge>
+    <edge source="PTEN" target="PIK3R3">
+      <data key="d0">0.955</data>
+    </edge>
+    <edge source="PTEN" target="XIAP">
+      <data key="d0">0.921</data>
+    </edge>
+    <edge source="PTEN" target="PIK3R1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="CDKN2B" target="CDK4">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="TNFRSF10B" target="XIAP">
+      <data key="d0">0.807</data>
+    </edge>
+    <edge source="LATS2" target="NF2">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="PIK3R3" target="PIK3R1">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="PDGFA" target="PDGFD">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="PDGFA" target="PDGFC">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="PDGFD" target="PDGFC">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="PDGFD" target="PDGFRA">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PDGFD" target="ERBB3">
+      <data key="d0">0.703</data>
+    </edge>
+    <edge source="PDGFD" target="CSF1R">
+      <data key="d0">0.703</data>
+    </edge>
+    <edge source="PDGFD" target="FGFR2">
+      <data key="d0">0.719</data>
+    </edge>
+    <edge source="PDGFD" target="TGFA">
+      <data key="d0">0.919</data>
+    </edge>
+    <edge source="FOS" target="CCL2">
+      <data key="d0">0.756</data>
+    </edge>
+    <edge source="FOS" target="YY1">
+      <data key="d0">0.933</data>
+    </edge>
+    <edge source="FOS" target="MAPK3">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="FOS" target="IL1B">
+      <data key="d0">0.894</data>
+    </edge>
+    <edge source="FOS" target="CSF1R">
+      <data key="d0">0.703</data>
+    </edge>
+    <edge source="FOS" target="CCN2">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="FOS" target="CDKN1A">
+      <data key="d0">0.753</data>
+    </edge>
+    <edge source="FOS" target="CXCL8">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="FOS" target="FN1">
+      <data key="d0">0.782</data>
+    </edge>
+    <edge source="FOS" target="PTGS2">
+      <data key="d0">0.819</data>
+    </edge>
+    <edge source="FOS" target="IL6">
+      <data key="d0">0.891</data>
+    </edge>
+    <edge source="FOS" target="STAT1">
+      <data key="d0">0.898</data>
+    </edge>
+    <edge source="FOS" target="DDIT3">
+      <data key="d0">0.905</data>
+    </edge>
+    <edge source="FOS" target="SP1">
+      <data key="d0">0.944</data>
+    </edge>
+    <edge source="FOS" target="MYC">
+      <data key="d0">0.965</data>
+    </edge>
+    <edge source="FOS" target="SRC">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="FOS" target="CREB1">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="FOS" target="ESR1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EIF2AK3" target="CREB1">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="EIF2AK3" target="DDIT3">
+      <data key="d0">0.884</data>
+    </edge>
+    <edge source="FN1" target="MMP2">
+      <data key="d0">0.756</data>
+    </edge>
+    <edge source="FN1" target="CCL2">
+      <data key="d0">0.723</data>
+    </edge>
+    <edge source="FN1" target="VHL">
+      <data key="d0">0.927</data>
+    </edge>
+    <edge source="FN1" target="MAPK3">
+      <data key="d0">0.829</data>
+    </edge>
+    <edge source="FN1" target="IL1B">
+      <data key="d0">0.869</data>
+    </edge>
+    <edge source="FN1" target="CXCL8">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="FN1" target="MMP14">
+      <data key="d0">0.818</data>
+    </edge>
+    <edge source="FN1" target="PTK2">
+      <data key="d0">0.937</data>
+    </edge>
+    <edge source="FN1" target="BRAF">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="FN1" target="MYC">
+      <data key="d0">0.775</data>
+    </edge>
+    <edge source="FN1" target="IL6">
+      <data key="d0">0.9</data>
+    </edge>
+    <edge source="FN1" target="SRC">
+      <data key="d0">0.945</data>
+    </edge>
+    <edge source="FN1" target="CCN2">
+      <data key="d0">0.963</data>
+    </edge>
+    <edge source="FN1" target="ESR1">
+      <data key="d0">0.969</data>
+    </edge>
+    <edge source="FN1" target="SDC1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CDKN1A" target="E2F1">
+      <data key="d0">0.977</data>
+    </edge>
+    <edge source="CDKN1A" target="STAT1">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="CDKN1A" target="PARP1">
+      <data key="d0">0.856</data>
+    </edge>
+    <edge source="CDKN1A" target="ESR1">
+      <data key="d0">0.842</data>
+    </edge>
+    <edge source="CDKN1A" target="MYC">
+      <data key="d0">0.981</data>
+    </edge>
+    <edge source="CXCL8" target="MMP2">
+      <data key="d0">0.814</data>
+    </edge>
+    <edge source="CXCL8" target="CSF3">
+      <data key="d0">0.971</data>
+    </edge>
+    <edge source="CXCL8" target="CCL2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CXCL8" target="IL1B">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="CXCL8" target="VEGFC">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="CXCL8" target="STAT1">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="CXCL8" target="SRC">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="CXCL8" target="SDC1">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="CXCL8" target="PTGS2">
+      <data key="d0">0.975</data>
+    </edge>
+    <edge source="CXCL8" target="IL6">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="PTGS2" target="MMP2">
+      <data key="d0">0.764</data>
+    </edge>
+    <edge source="PTGS2" target="CCL2">
+      <data key="d0">0.867</data>
+    </edge>
+    <edge source="PTGS2" target="MAPK3">
+      <data key="d0">0.855</data>
+    </edge>
+    <edge source="PTGS2" target="IL1B">
+      <data key="d0">0.974</data>
+    </edge>
+    <edge source="PTGS2" target="STAT6">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="PTGS2" target="MYC">
+      <data key="d0">0.715</data>
+    </edge>
+    <edge source="PTGS2" target="SRC">
+      <data key="d0">0.778</data>
+    </edge>
+    <edge source="PTGS2" target="IL6">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="TSC1" target="MAPK3">
+      <data key="d0">0.94</data>
+    </edge>
+    <edge source="TSC1" target="EIF4EBP1">
+      <data key="d0">0.799</data>
+    </edge>
+    <edge source="SRC" target="MMP2">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="SRC" target="CCL2">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="SRC" target="PDGFRA">
+      <data key="d0">0.954</data>
+    </edge>
+    <edge source="SRC" target="MAPK3">
+      <data key="d0">0.944</data>
+    </edge>
+    <edge source="SRC" target="ERBB3">
+      <data key="d0">0.968</data>
+    </edge>
+    <edge source="SRC" target="CSF1R">
+      <data key="d0">0.833</data>
+    </edge>
+    <edge source="SRC" target="AXL">
+      <data key="d0">0.983</data>
+    </edge>
+    <edge source="SRC" target="MMP14">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="SRC" target="SP1">
+      <data key="d0">0.947</data>
+    </edge>
+    <edge source="SRC" target="PLAUR">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="SRC" target="PTK2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="SRC" target="STAT1">
+      <data key="d0">0.936</data>
+    </edge>
+    <edge source="SRC" target="CTLA4">
+      <data key="d0">0.73</data>
+    </edge>
+    <edge source="SRC" target="TGFA">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="SRC" target="IL6">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="SRC" target="MYC">
+      <data key="d0">0.805</data>
+    </edge>
+    <edge source="SRC" target="BRAF">
+      <data key="d0">0.842</data>
+    </edge>
+    <edge source="SRC" target="FGFR2">
+      <data key="d0">0.958</data>
+    </edge>
+    <edge source="SRC" target="ESR1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="IL6" target="MMP2">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="IL6" target="CSF3">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="IL6" target="CCL2">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="IL6" target="PDGFRA">
+      <data key="d0">0.817</data>
+    </edge>
+    <edge source="IL6" target="MAPK3">
+      <data key="d0">0.905</data>
+    </edge>
+    <edge source="IL6" target="IL1B">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="IL6" target="CSF1R">
+      <data key="d0">0.779</data>
+    </edge>
+    <edge source="IL6" target="STAT6">
+      <data key="d0">0.906</data>
+    </edge>
+    <edge source="IL6" target="PLAUR">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="IL6" target="STAT1">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="IL6" target="CCN2">
+      <data key="d0">0.771</data>
+    </edge>
+    <edge source="IL6" target="FGF1">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="IL6" target="MYC">
+      <data key="d0">0.73</data>
+    </edge>
+    <edge source="IL6" target="VEGFC">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="IL6" target="ESR1">
+      <data key="d0">0.792</data>
+    </edge>
+    <edge source="IL6" target="CTLA4">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="IL6" target="CREB1">
+      <data key="d0">0.918</data>
+    </edge>
+    <edge source="IL6" target="KITLG">
+      <data key="d0">0.921</data>
+    </edge>
+    <edge source="IL6" target="NFKB1">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="IL6" target="IL2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="IL6" target="IL1A">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="IL6" target="IL9">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="IL6" target="BMP6">
+      <data key="d0">0.706</data>
+    </edge>
+    <edge source="IL6" target="MMP3">
+      <data key="d0">0.887</data>
+    </edge>
+    <edge source="IL6" target="CXCL10">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="IL6" target="CD86">
+      <data key="d0">0.862</data>
+    </edge>
+    <edge source="IL6" target="HSP90AA1">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="IL6" target="NLRP3">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="IL6" target="CD40">
+      <data key="d0">0.891</data>
+    </edge>
+    <edge source="IL6" target="PLAU">
+      <data key="d0">0.763</data>
+    </edge>
+    <edge source="IL6" target="FOXP3">
+      <data key="d0">0.913</data>
+    </edge>
+    <edge source="IL6" target="FOXO1">
+      <data key="d0">0.736</data>
+    </edge>
+    <edge source="IL6" target="IFNA2">
+      <data key="d0">0.903</data>
+    </edge>
+    <edge source="IL6" target="JAK2">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="IL6" target="MAPK8">
+      <data key="d0">0.938</data>
+    </edge>
+    <edge source="IL6" target="RELA">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="IL6" target="TNF">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="BRAF" target="MAPK3">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="BRAF" target="TERT">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="BRAF" target="ESR1">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="BRAF" target="MYC">
+      <data key="d0">0.722</data>
+    </edge>
+    <edge source="BRAF" target="CTLA4">
+      <data key="d0">0.773</data>
+    </edge>
+    <edge source="STMN1" target="MAPK3">
+      <data key="d0">0.931</data>
+    </edge>
+    <edge source="STAT1" target="CSF3">
+      <data key="d0">0.76</data>
+    </edge>
+    <edge source="STAT1" target="CCL2">
+      <data key="d0">0.831</data>
+    </edge>
+    <edge source="STAT1" target="PDGFRA">
+      <data key="d0">0.914</data>
+    </edge>
+    <edge source="STAT1" target="YY1">
+      <data key="d0">0.848</data>
+    </edge>
+    <edge source="STAT1" target="MAPK3">
+      <data key="d0">0.964</data>
+    </edge>
+    <edge source="STAT1" target="IL1B">
+      <data key="d0">0.846</data>
+    </edge>
+    <edge source="STAT1" target="CSF1R">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="STAT1" target="STAT6">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="STAT1" target="PTK2">
+      <data key="d0">0.85</data>
+    </edge>
+    <edge source="STAT1" target="CTLA4">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="STAT1" target="CREB1">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="STAT1" target="KITLG">
+      <data key="d0">0.764</data>
+    </edge>
+    <edge source="STAT1" target="MYC">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="STAT1" target="ESR1">
+      <data key="d0">0.915</data>
+    </edge>
+    <edge source="STAT1" target="NFKB1">
+      <data key="d0">0.926</data>
+    </edge>
+    <edge source="STAT1" target="IL2">
+      <data key="d0">0.797</data>
+    </edge>
+    <edge source="STAT1" target="IL1A">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="STAT1" target="IL9">
+      <data key="d0">0.886</data>
+    </edge>
+    <edge source="STAT1" target="CXCL10">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="STAT1" target="HSP90AA1">
+      <data key="d0">0.868</data>
+    </edge>
+    <edge source="STAT1" target="CD40">
+      <data key="d0">0.758</data>
+    </edge>
+    <edge source="STAT1" target="FOXP3">
+      <data key="d0">0.849</data>
+    </edge>
+    <edge source="STAT1" target="RELA">
+      <data key="d0">0.864</data>
+    </edge>
+    <edge source="STAT1" target="TNF">
+      <data key="d0">0.875</data>
+    </edge>
+    <edge source="STAT1" target="IFNA2">
+      <data key="d0">0.912</data>
+    </edge>
+    <edge source="STAT1" target="JAK2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="CREB1" target="YY1">
+      <data key="d0">0.87</data>
+    </edge>
+    <edge source="CREB1" target="MAPK3">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="CREB1" target="SP1">
+      <data key="d0">0.784</data>
+    </edge>
+    <edge source="CREB1" target="ESR1">
+      <data key="d0">0.757</data>
+    </edge>
+    <edge source="CREB1" target="EWSR1">
+      <data key="d0">0.768</data>
+    </edge>
+    <edge source="CREB1" target="MYC">
+      <data key="d0">0.789</data>
+    </edge>
+    <edge source="SP1" target="YY1">
+      <data key="d0">0.863</data>
+    </edge>
+    <edge source="SP1" target="MAPK3">
+      <data key="d0">0.972</data>
+    </edge>
+    <edge source="SP1" target="MYC">
+      <data key="d0">0.974</data>
+    </edge>
+    <edge source="SP1" target="E2F1">
+      <data key="d0">0.983</data>
+    </edge>
+    <edge source="SP1" target="ESR1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="EIF4EBP1" target="MAPK3">
+      <data key="d0">0.957</data>
+    </edge>
+    <edge source="MYC" target="GLI1">
+      <data key="d0">0.831</data>
+    </edge>
+    <edge source="MYC" target="YY1">
+      <data key="d0">0.958</data>
+    </edge>
+    <edge source="MYC" target="MAPK3">
+      <data key="d0">0.986</data>
+    </edge>
+    <edge source="MYC" target="IL1B">
+      <data key="d0">0.778</data>
+    </edge>
+    <edge source="MYC" target="ERBB3">
+      <data key="d0">0.731</data>
+    </edge>
+    <edge source="MYC" target="STAT6">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="MYC" target="TERT">
+      <data key="d0">0.92</data>
+    </edge>
+    <edge source="MYC" target="FOXM1">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="MYC" target="E2F1">
+      <data key="d0">0.995</data>
+    </edge>
+    <edge source="MYC" target="PARP1">
+      <data key="d0">0.762</data>
+    </edge>
+    <edge source="MYC" target="CCN2">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="MYC" target="SDC1">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="MYC" target="ESR1">
+      <data key="d0">0.982</data>
+    </edge>
+    <edge source="ESR1" target="BARD1">
+      <data key="d0">0.886</data>
+    </edge>
+    <edge source="ESR1" target="YY1">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="ESR1" target="MAPK3">
+      <data key="d0">0.981</data>
+    </edge>
+    <edge source="ESR1" target="IL1B">
+      <data key="d0">0.82</data>
+    </edge>
+    <edge source="ESR1" target="PTK2">
+      <data key="d0">0.836</data>
+    </edge>
+    <edge source="ESR1" target="FOXM1">
+      <data key="d0">0.79</data>
+    </edge>
+    <edge source="ESR1" target="E2F1">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="ESR1" target="PARP1">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="ESR1" target="IGF2">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="ESR1" target="FGFR2">
+      <data key="d0">0.774</data>
+    </edge>
+    <edge source="MAPK3" target="CCL2">
+      <data key="d0">0.747</data>
+    </edge>
+    <edge source="MAPK3" target="PARP1">
+      <data key="d0">0.758</data>
+    </edge>
+    <edge source="MAPK3" target="IL1B">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="MMP2" target="CCL2">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="MMP2" target="IL1B">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="MMP2" target="IGF2">
+      <data key="d0">0.779</data>
+    </edge>
+    <edge source="MMP2" target="CCN2">
+      <data key="d0">0.839</data>
+    </edge>
+    <edge source="MMP2" target="MMP14">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="CCL2" target="CSF3">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="CCL2" target="STAT6">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="CCL2" target="CSF1R">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="CCL2" target="IL1B">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="IL1B" target="CSF3">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="IL1B" target="ANGPT1">
+      <data key="d0">0.701</data>
+    </edge>
+    <edge source="IL1B" target="VEGFC">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="IL1B" target="KITLG">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="IL1B" target="NFKB1">
+      <data key="d0">0.996</data>
+    </edge>
+    <edge source="IL1B" target="IL2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="IL1B" target="IL1A">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="IL1B" target="FOXO1">
+      <data key="d0">0.723</data>
+    </edge>
+    <edge source="IL1B" target="PLAU">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="IL1B" target="HSP90AA1">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="IL1B" target="JAK2">
+      <data key="d0">0.806</data>
+    </edge>
+    <edge source="IL1B" target="MMP3">
+      <data key="d0">0.832</data>
+    </edge>
+    <edge source="IL1B" target="FOXP3">
+      <data key="d0">0.843</data>
+    </edge>
+    <edge source="IL1B" target="MAPK8">
+      <data key="d0">0.845</data>
+    </edge>
+    <edge source="IL1B" target="CD86">
+      <data key="d0">0.863</data>
+    </edge>
+    <edge source="IL1B" target="IFNA2">
+      <data key="d0">0.913</data>
+    </edge>
+    <edge source="IL1B" target="IL9">
+      <data key="d0">0.916</data>
+    </edge>
+    <edge source="IL1B" target="CD40">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="IL1B" target="CXCL10">
+      <data key="d0">0.962</data>
+    </edge>
+    <edge source="IL1B" target="RELA">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="IL1B" target="NLRP3">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="IL1B" target="TNF">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="IGF2" target="PDGFRA">
+      <data key="d0">0.799</data>
+    </edge>
+    <edge source="IGF2" target="ERBB3">
+      <data key="d0">0.77</data>
+    </edge>
+    <edge source="IGF2" target="CSF1R">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="IGF2" target="FGFR2">
+      <data key="d0">0.763</data>
+    </edge>
+    <edge source="CCN2" target="WWTR1">
+      <data key="d0">0.816</data>
+    </edge>
+    <edge source="SFRP1" target="DKK1">
+      <data key="d0">0.883</data>
+    </edge>
+    <edge source="SFRP1" target="WIF1">
+      <data key="d0">0.924</data>
+    </edge>
+    <edge source="DKK1" target="SFRP2">
+      <data key="d0">0.848</data>
+    </edge>
+    <edge source="DKK1" target="WIF1">
+      <data key="d0">0.882</data>
+    </edge>
+    <edge source="WIF1" target="SFRP2">
+      <data key="d0">0.753</data>
+    </edge>
+    <edge source="TGFA" target="PDGFRA">
+      <data key="d0">0.764</data>
+    </edge>
+    <edge source="TGFA" target="ERBB3">
+      <data key="d0">0.998</data>
+    </edge>
+    <edge source="TGFA" target="CSF1R">
+      <data key="d0">0.748</data>
+    </edge>
+    <edge source="TGFA" target="FGFR2">
+      <data key="d0">0.771</data>
+    </edge>
+    <edge source="VEGFC" target="PDGFRA">
+      <data key="d0">0.873</data>
+    </edge>
+    <edge source="VEGFC" target="ERBB3">
+      <data key="d0">0.735</data>
+    </edge>
+    <edge source="VEGFC" target="CSF1R">
+      <data key="d0">0.782</data>
+    </edge>
+    <edge source="VEGFC" target="FGFR2">
+      <data key="d0">0.835</data>
+    </edge>
+    <edge source="KITLG" target="CSF3">
+      <data key="d0">0.876</data>
+    </edge>
+    <edge source="KITLG" target="PDGFRA">
+      <data key="d0">0.981</data>
+    </edge>
+    <edge source="KITLG" target="ERBB3">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="KITLG" target="CSF1R">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="KITLG" target="FGFR2">
+      <data key="d0">0.748</data>
+    </edge>
+    <edge source="CSF1R" target="CSF3">
+      <data key="d0">0.873</data>
+    </edge>
+    <edge source="CSF1R" target="FGF1">
+      <data key="d0">0.842</data>
+    </edge>
+    <edge source="CSF1R" target="ANGPT1">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="FGF1" target="PDGFRA">
+      <data key="d0">0.819</data>
+    </edge>
+    <edge source="FGF1" target="ERBB3">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="FGF1" target="FGFR2">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PDGFRA" target="CSF3">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="PDGFRA" target="GLI1">
+      <data key="d0">0.711</data>
+    </edge>
+    <edge source="PDGFRA" target="ANGPT1">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="PDGFRA" target="PTK2">
+      <data key="d0">0.919</data>
+    </edge>
+    <edge source="FGFR2" target="ANGPT1">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="ERBB3" target="ANGPT1">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="ERBB3" target="AXL">
+      <data key="d0">0.732</data>
+    </edge>
+    <edge source="ERBB3" target="MUC4">
+      <data key="d0">0.914</data>
+    </edge>
+    <edge source="PARP1" target="BARD1">
+      <data key="d0">0.826</data>
+    </edge>
+    <edge source="PARP1" target="YY1">
+      <data key="d0">0.756</data>
+    </edge>
+    <edge source="PARP1" target="XRCC1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="PARP1" target="E2F1">
+      <data key="d0">0.787</data>
+    </edge>
+    <edge source="PARP1" target="EWSR1">
+      <data key="d0">0.861</data>
+    </edge>
+    <edge source="FOXM1" target="E2F1">
+      <data key="d0">0.822</data>
+    </edge>
+    <edge source="E2F1" target="YY1">
+      <data key="d0">0.747</data>
+    </edge>
+    <edge source="VHL" target="CA9">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="VHL" target="PTK2">
+      <data key="d0">0.812</data>
+    </edge>
+    <edge source="BID" target="BAK1">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="DVL2" target="CSNK2A3">
+      <data key="d0">0.906</data>
+    </edge>
+    <edge source="DVL2" target="CSNK2A2">
+      <data key="d0">0.918</data>
+    </edge>
+    <edge source="DVL2" target="CSNK2A1">
+      <data key="d0">0.943</data>
+    </edge>
+    <edge source="DVL2" target="APC">
+      <data key="d0">0.964</data>
+    </edge>
+    <edge source="DVL2" target="DVL3">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="DVL2" target="DVL1">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="CSNK2A3" target="CSNK2A1">
+      <data key="d0">0.9</data>
+    </edge>
+    <edge source="CSNK2A3" target="CSNK2A2">
+      <data key="d0">0.901</data>
+    </edge>
+    <edge source="CSNK2A3" target="DVL3">
+      <data key="d0">0.906</data>
+    </edge>
+    <edge source="CSNK2A3" target="DVL1">
+      <data key="d0">0.912</data>
+    </edge>
+    <edge source="CSNK2A2" target="CSNK2A1">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="CSNK2A2" target="HSP90AA1">
+      <data key="d0">0.764</data>
+    </edge>
+    <edge source="CSNK2A2" target="DVL3">
+      <data key="d0">0.927</data>
+    </edge>
+    <edge source="CSNK2A2" target="DVL1">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="CSNK2A1" target="APC">
+      <data key="d0">0.749</data>
+    </edge>
+    <edge source="CSNK2A1" target="HSP90AA1">
+      <data key="d0">0.88</data>
+    </edge>
+    <edge source="CSNK2A1" target="DVL3">
+      <data key="d0">0.949</data>
+    </edge>
+    <edge source="CSNK2A1" target="DVL1">
+      <data key="d0">0.968</data>
+    </edge>
+    <edge source="APC" target="DVL3">
+      <data key="d0">0.931</data>
+    </edge>
+    <edge source="APC" target="DVL1">
+      <data key="d0">0.989</data>
+    </edge>
+    <edge source="DVL3" target="DVL1">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="DVL1" target="WNT7A">
+      <data key="d0">0.872</data>
+    </edge>
+    <edge source="DVL1" target="MAPK8">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="HSP90AA1" target="MAPK8">
+      <data key="d0">0.732</data>
+    </edge>
+    <edge source="HSP90AA1" target="CD40">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="HSP90AA1" target="JAK2">
+      <data key="d0">0.791</data>
+    </edge>
+    <edge source="HSP90AA1" target="HRAS">
+      <data key="d0">0.819</data>
+    </edge>
+    <edge source="HSP90AA1" target="NLRP3">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="NFKB1" target="FOXO1">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="NFKB1" target="CD86">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="NFKB1" target="HRAS">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="NFKB1" target="FOXP3">
+      <data key="d0">0.744</data>
+    </edge>
+    <edge source="NFKB1" target="IL2">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="NFKB1" target="CXCL10">
+      <data key="d0">0.845</data>
+    </edge>
+    <edge source="NFKB1" target="IFNA2">
+      <data key="d0">0.863</data>
+    </edge>
+    <edge source="NFKB1" target="CD40">
+      <data key="d0">0.898</data>
+    </edge>
+    <edge source="NFKB1" target="IL1A">
+      <data key="d0">0.946</data>
+    </edge>
+    <edge source="NFKB1" target="NLRP3">
+      <data key="d0">0.981</data>
+    </edge>
+    <edge source="NFKB1" target="MAPK8">
+      <data key="d0">0.987</data>
+    </edge>
+    <edge source="NFKB1" target="TNF">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="NFKB1" target="RELA">
+      <data key="d0">0.999</data>
+    </edge>
+    <edge source="FOXO1" target="TNF">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="FOXO1" target="MAPK8">
+      <data key="d0">0.951</data>
+    </edge>
+    <edge source="CD86" target="IL2">
+      <data key="d0">0.879</data>
+    </edge>
+    <edge source="CD86" target="IL1A">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="CD86" target="CXCL10">
+      <data key="d0">0.748</data>
+    </edge>
+    <edge source="CD86" target="FOXP3">
+      <data key="d0">0.903</data>
+    </edge>
+    <edge source="CD86" target="TNF">
+      <data key="d0">0.922</data>
+    </edge>
+    <edge source="CD86" target="CD40">
+      <data key="d0">0.988</data>
+    </edge>
+    <edge source="HRAS" target="JAK2">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="HRAS" target="MAPK8">
+      <data key="d0">0.985</data>
+    </edge>
+    <edge source="FOXP3" target="IL2">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="FOXP3" target="IL9">
+      <data key="d0">0.792</data>
+    </edge>
+    <edge source="FOXP3" target="CD40">
+      <data key="d0">0.777</data>
+    </edge>
+    <edge source="FOXP3" target="RELA">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="FOXP3" target="TNF">
+      <data key="d0">0.909</data>
+    </edge>
+    <edge source="IL2" target="RELA">
+      <data key="d0">0.839</data>
+    </edge>
+    <edge source="IL2" target="CD40">
+      <data key="d0">0.847</data>
+    </edge>
+    <edge source="IL2" target="CXCL10">
+      <data key="d0">0.857</data>
+    </edge>
+    <edge source="IL2" target="IFNA2">
+      <data key="d0">0.892</data>
+    </edge>
+    <edge source="IL2" target="JAK2">
+      <data key="d0">0.896</data>
+    </edge>
+    <edge source="IL2" target="TNF">
+      <data key="d0">0.957</data>
+    </edge>
+    <edge source="IL2" target="IL9">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="IL2" target="IL1A">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="CXCL10" target="IL1A">
+      <data key="d0">0.958</data>
+    </edge>
+    <edge source="CXCL10" target="IL9">
+      <data key="d0">0.772</data>
+    </edge>
+    <edge source="CXCL10" target="MMP3">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="CXCL10" target="CD40">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="CXCL10" target="IFNA2">
+      <data key="d0">0.838</data>
+    </edge>
+    <edge source="CXCL10" target="TNF">
+      <data key="d0">0.966</data>
+    </edge>
+    <edge source="IFNA2" target="IL1A">
+      <data key="d0">0.897</data>
+    </edge>
+    <edge source="IFNA2" target="IL9">
+      <data key="d0">0.753</data>
+    </edge>
+    <edge source="IFNA2" target="RELA">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="IFNA2" target="JAK2">
+      <data key="d0">0.828</data>
+    </edge>
+    <edge source="IFNA2" target="TNF">
+      <data key="d0">0.842</data>
+    </edge>
+    <edge source="CD40" target="IL1A">
+      <data key="d0">0.803</data>
+    </edge>
+    <edge source="CD40" target="RELA">
+      <data key="d0">0.991</data>
+    </edge>
+    <edge source="CD40" target="TNF">
+      <data key="d0">0.992</data>
+    </edge>
+    <edge source="IL1A" target="IL9">
+      <data key="d0">0.77</data>
+    </edge>
+    <edge source="IL1A" target="MMP3">
+      <data key="d0">0.807</data>
+    </edge>
+    <edge source="IL1A" target="NLRP3">
+      <data key="d0">0.845</data>
+    </edge>
+    <edge source="IL1A" target="RELA">
+      <data key="d0">0.893</data>
+    </edge>
+    <edge source="IL1A" target="TNF">
+      <data key="d0">0.994</data>
+    </edge>
+    <edge source="NLRP3" target="TNF">
+      <data key="d0">0.869</data>
+    </edge>
+    <edge source="NLRP3" target="RELA">
+      <data key="d0">0.937</data>
+    </edge>
+    <edge source="MAPK8" target="TNF">
+      <data key="d0">0.89</data>
+    </edge>
+    <edge source="MAPK8" target="RELA">
+      <data key="d0">0.975</data>
+    </edge>
+    <edge source="TNF" target="IL9">
+      <data key="d0">0.777</data>
+    </edge>
+    <edge source="TNF" target="MMP3">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="TNF" target="PLAU">
+      <data key="d0">0.751</data>
+    </edge>
+    <edge source="TNF" target="JAK2">
+      <data key="d0">0.801</data>
+    </edge>
+    <edge source="TNF" target="RELA">
+      <data key="d0">0.997</data>
+    </edge>
+    <edge source="JAK2" target="CCND2">
+      <data key="d0">0.711</data>
+    </edge>
+    <edge source="JAK2" target="ASXL1">
+      <data key="d0">0.881</data>
+    </edge>
+    <edge source="MMP3" target="PLAU">
+      <data key="d0">0.764</data>
+    </edge>
+    <edge source="DNMT1" target="KDM6A">
+      <data key="d0">0.829</data>
+    </edge>
+    <edge source="KDM6A" target="ASXL1">
+      <data key="d0">0.828</data>
+    </edge>
+  </graph>
+</graphml>
